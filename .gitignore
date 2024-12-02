@@ -1,0 +1,25 @@
+# Python 환경 폴더
+myenv/
+.env
+
+# __pycache__ 및 컴파일된 파일
+__pycache__/
+*.pyc
+*.pyo
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 대용량 파일
+*.dll
+*.lib
+*.pyd
+*.ttf
+*.pkl
+*.pdf
+*.txt
+*.md

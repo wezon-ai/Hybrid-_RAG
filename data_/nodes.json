@@ -1,0 +1,1282 @@
+[
+    {
+        "id_": "1b0bb058-7cf6-4f2b-8edd-7dd82b6bdceb",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "1"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "7ce76139-372c-4c35-ab45-865695e35d4c",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "1"
+                },
+                "hash": "c6568c6060311540169d1b6d673cc226930ffb3652bd702bbd9ab13df71b849c",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "recommended practices for safety and health programs worker participation find and fix hazards management leadership occupational safety and health administration oshagovsafetymanagement osha 3885 october 2016",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 209,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "9ae839d7-12c6-4c70-b546-ec885236c7d3",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "2"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "9cdaf79b-75c0-4b7e-bf6f-6205c75c3555",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "2"
+                },
+                "hash": "89bcc8909a8fc9e2388e5d7352e2ab8fd5df898a7894cbdda43ae59efb4f0c54",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "disclaimer these practices for safety and health programs are recommendations only employers are not required to have a safety and health program that complies with them and will not be cited for failing to have a safety and health program that complies with this document these recommended practices apply to employers except in the construction industry for whom there are separate recommended practices for safety and health programs for the construction industry",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 466,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "3f06e560-f283-43d3-b037-f05563e325d1",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "3"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "4e00af08-cfb4-4103-a6c9-678c034abd34",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "3"
+                },
+                "hash": "1827a6950dee90c573abb8aacd17109b69e1c9a3a074b385efb9375b76d74b84",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "foreword foreword establishing a safety and health program in your workplace is one of the most effective ways of protecting your most valuable asset your workers losing workers to injury or illness even for a short time can cause significant disruption and costto you as well as the workers and their families it can also damage workplace morale productivity turnover and reputation safety and health programs foster a proactive approach to finding and fixing workplace hazards before they can cause injury or illness rather than reacting to an incident management and workers collaborate to identify and solve issues before they occur this collaboration builds trust enhances communication and often leads to other business improvements employers who have implemented safety and health programs including many who are in oshas voluntary protection programs vpp or the safety and health achievement recognition program sharp for small and mediumsized businesses have also found that managing for safety results in higherquality product or output and higher profits thousands of responsible employers have used oshas 1989 safety and health program management guidelines as a blueprint for setting up an effective safety and health program1 much has changed however since those guidelines were published  the nature of work is evolving as the economy continues to shift from a manufacturing to a service base and from a fixed to an often mobile workforce resources and tools to support implementation of these recommended practices osha has created a dedicated web page to support the implementation of these recommended practices at oshagov safetymanagement the page includes the following  additional resources articles and information sources related to each core element of the recommended practices plus other topics discussed in the recommended practices  tools downloadable templates worksheets and reference materials you can use as you develop your own safety and health program please visit the recommended practices web page and explore the resources available osha will update the web page and add resources and tools as they become available  automation of work activities means that technology computers and robotics are being integrated into our workplaces often introducing new and different hazards  greater diversity in the workplace means that people from different backgrounds and cultures are working alongside each other often speaking different languages 1 54 fr 390416 january 26 1989 i oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2586,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "0234dadb-7c46-4a45-9a23-3e00e95dcf1a",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "4"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "8d39e17f-6984-447e-996e-bf5208333123",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "4"
+                },
+                "hash": "5bca769f0f7190374630d6391cf77e19d536443a6eef4271e3279e68ea7ecbe6",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "foreword  an aging workforce and the rise of sedentary work and lifestyle means that some workers are at higher risk for workrelated musculoskeletal disorders  there is greater recognition that workers in industries that some think of as safe such as healthcare lodging retail and transportation face significant hazards  increased temporary and contract employment and the rise of the gig economy mean that traditional relationships between workers and employers are shifting and changes in safety programs and policies will be required to ensure the safety of all workers at worksites characterized by these newer and more fluid relationships these new recommended practices reflect these changes they also reflect what we have learned from bestinclass programs and what makes them effective in particular these recommended practices place greater emphasis on involving workers and include a more robust program evaluation element to help drive continuous improvement the recommended practices also stress the need for communication and coordination on worksites involving more than one employer in addition the new recommended practices build on successful approaches and practices that have evolved under osha programs such vpp and sharp they also align with national and international consensus standards2 2 a comparison of these recommended practices the 1989 guidelines osha voluntary programs and other consensus standards is available on the recommended practices for safety and health programs website ii recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1591,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "5d65ad0d-0d7d-424d-9f6f-d9178cf34f86",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "5"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "827b60ff-b4b3-45ea-90fe-4739138be7fa",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "5"
+                },
+                "hash": "1c61a4cd0a232638009362d9100fd45acdb5dfb35c63477f03119d68880fbc39",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "introduction 2 management leadership 9 worker participation11 hazard identification and assessment15 hazard prevention and control20 education and training24 program evaluation and improvement27 communication and coordination for host employers contractors and staffing agencies30 list of abbreviations 34 glossary of terms 34 contents 1 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 414,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "b6ad106d-b455-4654-b992-3808accff149",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "6"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "5444b862-c6c6-427f-9d10-e2dfcf3f08e3",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "6"
+                },
+                "hash": "594c8c13edb2f2ca12f7d456b1d3d7226982a9a50c74632055d2cbae82191987",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "introduction these recommended practices provide responsible employers workers and worker representatives3 with a sound flexible framework for addressing safety and health issues in diverse workplaces they may be used in any workplace but will be particularly helpful in small and mediumsized workplaces they can be applied equally well in traditional fixed manufacturing workplaces and in the service sector healthcare retail and even mobile or officebased work environments they also include information specifically aimed at temporary worker and multiemployer work situations separate recommended practices are available for the construction industry 3 worker participation is vital to the success of the program in several places in this document osha refers not just to workers but also to their representatives such as labor unions or religious or community groups",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 870,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "ab71599a-7881-4cfd-bb55-2d7dbdb92ddd",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "7"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "b17943f3-96da-4e41-9063-08bc7cc4a440",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "7"
+                },
+                "hash": "da995f3f9e15a2a5a9cb3216311c02d4fd9d7e2be7e1439af85406419a0af4ed",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "source ohio bureau of workers compensation 2011 ohio 21d sharp program performance assessment introduction the recommended practices emphasize a proactive approach to managing workplace safety and health traditional approaches are often reactivethat is actions are taken only after a worker is injured or becomes sick a new standard or regulation is published or an outside inspection finds a problem that must be corrected finding and fixing hazards before they cause injury or illness is a far more effective approach doing so avoids the direct and indirect costs of worker injuries and illnesses and promotes a positive work environment the concept of continuous improvement is central to the recommended practices as with any journey the first step is often the most challenging the idea is to begin with a basic program and grow from there by initially focusing on achieving modest goals monitoring performance and evaluating outcomes you can help your workplace progress over time along the path to higher levels of safety and health the benefits of implementing these recommended practices responsible employers know that the main goal of a safety and health program is to prevent workplace injuries illnesses and deaths as well as the suffering and financial hardship these events can cause for workers their families and their employers employers may find that implementing these recommended practices brings other benefits as well the renewed or enhanced commitment to safety and health and the cooperative atmosphere between employers and workers have been linked to  improvements in product process and service quality  better workplace morale  improved employee recruiting and retention  a more favorable image and reputation among customers suppliers and the community per million dollars of payroll a study of small employers in ohio found that workers compensation claims fell dramatically after working with oshas sharp program to adopt programs similar to those described in these recommended practices average number of claims cost per claim claims 52  decreased decreased 80 88 decreased average lost time per claim 87 decreased 3 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2227,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "d9b4c7e3-dfd3-42dd-bd6c-eee86884bbe6",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "8"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "255727e8-0a14-4252-b2e0-0b0ebe2ea5e6",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "8"
+                },
+                "hash": "5bfe32f4f18f16cd4dc26c275e24e174de9142b4154bd750f07f1cb77595011f",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "how to use the recommended practices each section of the recommended practices describes a core program element see page 7 followed by several action items each action item is an example of steps that employers and workers can take to establish implement maintain and improve your safety and health program you can use the selfevaluation tool found on the recommended practices web page to track your progress and assess how fully you have implemented or will implement each action item seven interrelated elements the seven core elements are interrelated and are best viewed as part of an integrated system actions taken under one core element can and likely will affect actions needed under one or more other elements for example workers must be trained in reporting procedures and hazard identification techniques in order to be effective source leigh jp 2011 economic burden of occupational injury and illness in the united states milbank quarterly 897287724 4 the 27 multiplier for indirect costs includes some social costs such as workers compensation costs not covered by insurance introduction implementing a safety  health program can help employers avoid the that result from due to work stoppages and investigations training and other costs associated with to material machinery and property and such as time lost replacing injured workers loss or damage indirect costs these have been estimated to be at least 27 times the indirect costs direct costs workplace incidents 4 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1561,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "4e429c01-b789-4d5a-ad37-7e5c340220cb",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "9"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "8bc786e9-40d8-4222-be8e-cbb6b89a6c6a",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "9"
+                },
+                "hash": "310abb1e51f6ced6143f2cf9fc5ad69f6e30ab8b00215ad6726a2dc30bee5b2a",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "introduction 10 easy things to get your program started if these recommended practices appear challenging here are some simple steps you can take to get started completing these steps will give you a solid base from which to take on some of the more structured actions presented in the recommended practices 1 set safety and health as a top priority always set safety and health as the top priority tell your workers that making sure they finish the day and go home safely is the way you do business assure them that you will work with them to find and fix any hazards that could injure them or make them sick 2 lead by example practice safe behaviors yourself and make safety part of your daily conversations with workers 3 implement a reporting system develop and communicate a simple procedure for workers to report any injuries illnesses incidents including near missesclose calls hazards or safety and health concerns without fear of retaliation include an option for reporting hazards or concerns anonymously 4 provide training train workers on how to identify and control hazards using for example oshas hazard identification training tool 5 conduct inspections inspect the workplace with workers and ask them to identify any activity piece of equipment or material that concerns them use checklists such as those included in oshas small business handbook to help identify problems 6 collect hazard control ideas ask workers for ideas on improvements and follow up on their suggestions provide them time during work hours if necessary to research solutions 7 implement hazard controls assign workers the task of choosing implementing and evaluating the solutions they come up with 8 address emergencies identify foreseeable emergency scenarios and develop instructions on what to do in each case meet to discuss these procedures and post them in a visible location in the workplace 9 seek input on workplace changes before making significant changes to the workplace work organization equipment or materials consult with workers to identify potential safety or health issues 10 make improvements set aside a regular time to discuss safety and health issues with the goal of identifying ways to improve the program 5 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2299,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "7298e669-c1cb-4d08-9ddf-ce6d00b21077",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "10"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "6948b03e-d634-4310-809a-64dff0587f39",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "10"
+                },
+                "hash": "deb4b269d1714d9a4d04faad68a5a7552838934a0d92a1e4b169a39708ad0aa0",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "participants thus the education and training core element supports the worker participation core element similarly setting goals as described under management leadership will be more effective if you routinely evaluate your progress in meeting those goals see program evaluation and improvement progress in each core element is important to achieve maximum benefit from the program one size does not fit all while the action items under each core element are specific they are not prescriptive the process described in these recommended practices can and should be tailored to the needs of each workplace likewise your safety and health program can and should evolve experimentation evaluation and program modification are all part of the process you may also experience setbacks from time to time what is important is that you learn from setbacks remain committed to finding out what works best for you and continue to try different approaches injuries and illnesses occur in all types of workplace settings from manufacturing sites to hospitals and healthcare facilities to offices and service industries5 workers can even be injured or become ill outside physical facilities such as when driving a vehicle as part of a sales or service job the preventive approaches described in these recommended practices work equally well across all sectors of the economy for all different kinds of hazards in both mobile and fixed work environments and for small medium sized and large organizations small employers may find that they can best accomplish the actions outlined in these recommended practices using informal communications and procedures larger employers who have more complex work processes and hazards may require a more formal and detailed program they may also wish to integrate their safety and health program with other programs that they are using to manage production quality control and environmental protection or sustainability the importance of worker participation throughout these recommended practices osha emphasizes the importance of worker participation in the safety and health program for a program to succeed workers and if applicable their representatives must participate in developing and implementing every element of the safety and health program this emphasis on worker participation is consistent with the osh act osha standards and osha enforcement policies and procedures which recognize the rights and roles of workers and their representatives in matters of workplace safety and health several action items described in these recommended practices rely on perspectives expertise and input that can come only from workers and their representatives when more than one employer is involved host employers contractors staffing agencies and their workers should pay particular attention to the communication and coordination for host employers contractors and staffing agencies section this section describes actions that host employers and contractors subcontractors and temporary staffing agencies and their workers should take to ensure protection of everyone on the worksite for tools and resources to help you implement these recommended practices visit oshagovsafetymanagement 5 please note osha has developed a separate document of recommended practices for safety and health programs for the construction industry introduction 6 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 3445,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "6f05dc63-ad4c-4a34-ac2d-2b533d47ad7f",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "11"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "0138fb6e-9415-4421-a481-a50de355aa0e",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "11"
+                },
+                "hash": "0dba02d98dda9feb6639ca9607a7938c1360468bd046c67221de9a177319bb70",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "introduction core elements of the safety and health program recommended practices management leadership  top management demonstrates its commitment to continuous improvement in safety and health communicates that commitment to workers and sets program expectations and responsibilities  managers at all levels make safety and health a core organizational value establish safety and health goals and objectives provide adequate resources and support for the program and set a good example worker participation  workers and their representatives are involved in all aspects of the programincluding setting goals identifying and reporting hazards investigating incidents and tracking progress  all workers including contractors and temporary workers understand their roles and responsibilities under the program and what they need to do to effectively carry them out  workers are encouraged and have means to communicate openly with management and to report safety and health concerns without fear of retaliation  any potential barriers or obstacles to worker participation in the program for example language lack of information or disincentives are removed or addressed hazard identification  assessment  procedures are put in place to continually identify workplace hazards and evaluate risks  safety and health hazards from routine nonroutine and emergency situations are identified and assessed  an initial assessment of existing hazards exposures and control measures is followed by periodic inspections and reassessments to identify new hazards  any incidents are investigated with the goal of identifying the root causes  identified hazards are prioritized for control hazard prevention  control  employers and workers cooperate to identify and select methods for eliminating preventing or controlling workplace hazards  controls are selected according to a hierarchy that uses engineering solutions first followed by safe work practices administrative controls and finally personal protective equipment ppe  a plan is developed to ensure that controls are implemented interim protection is provided progress is tracked and the effectiveness of controls is verified education  training  all workers are trained to understand how the program works and how to carry out the responsibilities assigned to them under the program  employers managers and supervisors receive training on safety concepts and their responsibility for protecting workers rights and responding to workers reports and concerns  all workers are trained to recognize workplace hazards and to understand the control measures that have been implemented program evaluation  improvement  control measures are periodically evaluated for effectiveness  processes are established to monitor program performance verify program implementation and identify program shortcomings and opportunities for improvement  necessary actions are taken to improve the program and overall safety and health performance communication and coordination for host employers contractors and staffing agencies  host employers contractors and staffing agencies commit to providing the same level of safety and health protection to all employees  host employers contractors and staffing agencies commmunicate the hazards present at the worksite and the hazards that work of contract workers may create on site  host employers establish specifications and qualifications for contractors and staffing agencies  before beginning work host employers contractors and staffing agencies coordinate on work planning and scheduling to identify and resolve any conflicts that could affect safety or health 7 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 3716,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "700702c0-e454-4773-9fdb-7aa0dc0eb491",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "12"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "0d08cc8b-c185-4812-869e-08c1fed98dee",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "12"
+                },
+                "hash": "56706fa0ce9f69319f1e5ef3904c5107eab61746ed29a0956122673258486839",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "introduction for more information for more information about these recommended practices tools to help you implement them and related topics see the recommended practices web page this page includes links to many tools and resources developed by osha and others that can help employers and workers implement these recommended practices osha will continue to update and add to this resource list oshas onsite consultation program offers free and confidential occupational safety and health services to small and mediumsized businesses in all states and several territories across the country with priority given to highhazard worksites onsite consultation program services are separate from enforcement and do not result in penalties or citations consultants from state agencies or universities work with employers to identify workplace hazards provide advice on compliance with osha standards and help them establish and improve their safety and health programs for free assistance including help implementing your program visit wwwoshagovsmallbusiness or call 18003216742 osha 8 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1156,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "3f46fe00-8f15-42ca-b238-14544ecb4f8b",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "13"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "5c8f6fd4-9402-4841-a6a6-3ada43f43b1d",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "13"
+                },
+                "hash": "c741ae1bf77ec8b70b84b689c4165d31c096ade741852aa2ff3cf4eda0ef3330",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "management leadership management provides the leadership vision and resources needed to implement an effective safety and health program management leadership means that business owners managers and supervisors  make worker safety and health a core organizational value  are fully committed to eliminating hazards protecting workers and continuously improving workplace safety and health  provide sufficient resources to implement and maintain the safety and health program  visibly demonstrate and communicate their safety and health commitment to workers and others  set an example through their own actions action item 1 communicate your commitment to a safety and health program a clear written policy helps you communicate that safety and health is a primary organizational valueas important as productivity profitability product or service quality and customer satisfaction how to accomplish it establish a written policy signed by top management describing the organizations commitment to safety and health and pledging to establish and maintain a safety and health program for all workers  communicate the policy to all workers and at appropriate times and places to relevant parties including  contractors subcontractors staffing agencies and temporary workers at your worksites  suppliers and vendors  other businesses in a multitenant building  visitors  customers  reinforce management commitment by considering safety and health in all business decisions including contractor and vendor selection purchasing and facility design and modification  be visible in operations and set an example by following the same safety procedures you expect workers to follow begin work meetings with a discussion or review of safety and health indicators and any outstanding safety items on a to do list 9 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1879,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "826c13b5-2cb1-4301-a189-8d9e7c90c2c3",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "14"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "8acea869-e2c0-47f0-9f94-d3f7850fafa7",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "14"
+                },
+                "hash": "8ccb2e858955844ce23e60b875b4f4f4bed90de8eb0bd3e0c545eb7920100fd2",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "management leadership action item 2 define program goals by establishing specific goals and objectives management sets expectations for managers supervisors and workers and for the program overall the goals and objectives should focus on specific actions that will improve workplace safety and health how to accomplish it  establish realistic measurable goals for improving safety and health goals emphasizing injury and illness prevention should be included rather than focusing on injury and illness rates  develop plans to achieve the goals by assigning tasks and responsibilities to particular people setting timeframes and determining resource needs action item 3 allocate resources management provides the resources needed to implement the safety and health program pursue program goals and address program shortcomings when they are identified how to accomplish it  estimate the resources needed to establish and implement the program  allow time in workers schedules for them to fully participate in the program  integrate safety and health into planning and budgeting processes and align budgets with program needs  provide and direct resources to operate and maintain the program meet safety and health commitments and pursue program goals note resource needs will vary depending on your organizations size complexity hazard types and program maturity and development resource needs may include capital equipment and supplies staff time training access to information and tools eg vendor information safety data sheets injuryillness data checklists online databases and access to safety and health experts including oshas free and confidential on site consultation program see for more information in the introduction to these recommended practices action item 4 expect performance management leads the program effort by establishing roles and responsibilities and providing an open positive environment that encourages communication about safety and health how to accomplish it  identify a frontline person or persons who will lead the safety program effort make plans coordinate activities and track progress define and regularly communicate responsibilities and authorities for implementing and maintaining the program and hold people accountable for performance  provide positive recognition for meeting or exceeding safety and health goals aimed at preventing injury and illness eg reporting close callsnear misses attending training conducting inspections  establish ways for management and all workers to communicate freely and often about safety and health issues without fear of retaliation note maintaining a positive and encouraging tone is important successful programs reward rather than discipline workers who identify problems or concerns much like successful quality programs disciplinary measures should be reserved for situations in which an individual manager or worker is uncooperative or becomes an impediment to progress 10 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 3032,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "985851ec-9c8b-4476-b1d5-3f2bd7732a33",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "15"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "53991c72-fac7-454f-bd20-bd726dd108d3",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "15"
+                },
+                "hash": "69a2ff6ec5f9188b9e5efd8664f1e3dce7b1447e1dcdc8bdc40b0fede912b7ce",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "worker participation to be effective any safety and health program needs the meaningful participation of workers and their representatives workers have much to gain from a successful program and the most to lose if the program fails they also often know the most about potential hazards associated with their jobs successful programs tap into this knowledge base worker participation means that workers are involved in establishing operating evaluating and improving the safety and health program all workers at a worksite should participate including those employed by contractors subcontractors and temporary staffing agencies see communication and coordination for host employers contractors and staffing agencies retaliation against workers is illegal section 11c of the occupational safety and health act of 1970 prohibits employers from retaliating against employees for exercising a variety of rights guaranteed under the osh act such as filing a safety and health complaint with osha raising a health and safety concern with their employers participating in an osha inspection or reporting a workrelated injury or illness osha vigorously enforces the antiretaliation protections provided under 11c of the osh act and other federal statutes for more information see wwwwhistleblowersgov in an effective safety and health program all workers  are encouraged to participate in the program and feel comfortable providing input and reporting safety or health concerns  have access to information they need to participate effectively in the program  have opportunities to participate in all phases of program design and implementation  do not experience retaliation when they raise safety and health concerns report injuries illnesses and hazards participate in the program or exercise safety and health rights note where workers are represented by a union it is important that worker representatives also participate in the program consistent with the rights provided to worker representatives under the occupational safety and health act of 1970 and the national labor relations act 11 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2166,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "548f5e2d-7f7e-4197-9947-e28382d4bcee",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "16"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "d1201d7b-d7ac-483a-a95a-c883671ca6b7",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "16"
+                },
+                "hash": "4d571aed1d6b57814c7fda1b5419461979ef0d670a879d7b42ca482887f84ec4",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "worker participation action item 1 encourage workers to participate in the program by encouraging workers to participate in the program management signals that it values their input into safety and health decisions how to accomplish it  give workers the necessary time and resources to participate in the program  acknowledge and provide positive reinforce ment to those who participate in the program  maintain an open door policy that invites workers to talk to managers about safety and health and to make suggestions action item 2 encourage workers to report safety and health concerns workers are often best positioned to identify safety and health concerns and program shortcomings such as emerging workplace hazards unsafe conditions close callsnear misses and actual incidents by encouraging reporting and following up promptly on all reports employers can address issues before someone gets hurt or becomes ill how to accomplish it  establish a process for workers to report injuries illnesses close callsnear misses hazards and other safety and health concerns and respond to reports promptly include an option for anonymous reporting to reduce fear of reprisal6  report back to workers routinely and frequently about action taken in response to their concerns and suggestions  emphasize that management will use reported information only to improve workplace safety and health and that no worker will experience retaliation for bringing such information to managements attention see action item 5  empower all workers to initiate or request a temporary suspension or shutdown of any work activity or operation they believe to be unsafe  involve workers in finding solutions to reported issues action item 3 give workers access to safety and health information sharing relevant safety and health information with workers fosters trust and helps organizations make more informed safety and health decisions how to accomplish it  give workers the information they need to understand safety and health hazards and control measures in the workplace some osha standards require employers to make specific types of information available to workers such as  safety data sheets sdss  injury and illness data may need to be redacted and aggregated to eliminate personal identifiers 6 under oshas injury and illness recordkeeping rule 29 cfr 1904 employers are required to establish a reasonable procedure for employees to report workrelated injuries and illnesses promptly and accurately a reasonable procedure is defined as one that would not deter or discourage a reasonable employee from accurately reporting a workplace injury or illness 12 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2722,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "7c2bdf78-08a5-4c2d-a848-29042309ac7d",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "17"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "1ff97b93-689a-402d-baa8-393c253f9d27",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "17"
+                },
+                "hash": "5845b21e3c61a42cb6634ba220cd954344ff1a839259e858988597c318e7ed41",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "worker participation  results of environmental exposure monitoring conducted in the workplace prevent disclosure of sensitive and personal information as required  other useful information for workers to review can include  workplace job hazard analyses  chemical and equipment manufacturer safety recommendations  workplace inspection reports  incident investigation reports prevent disclosure of sensitive and personal information as required action item 4 involve workers in all aspects of the program including worker input at every step of program design and implementation improves your ability to identify the presence and causes of workplace hazards creates a sense of program ownership among workers enhances their understanding of how the program works and helps sustain the program over time how to accomplish it  provide opportunities for workers to participate in all aspects of the program including but not limited to helping  develop the program and set goals  report hazards and develop solutions that improve safety and health  analyze hazards in each step of routine and nonroutine jobs tasks and processes  define and document safe work practices  conduct site inspections  develop and revise safety procedures  participate in incident and close callnear miss investigations  train current coworkers and new hires  develop implement and evaluate training programs  evaluate program performance and identify ways to improve it  take part in exposure monitoring and medical surveillance associated with health hazards 13 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1615,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "9489176f-9192-43a9-a32e-40433137e43b",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "18"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "87ccbfc9-2c03-48e4-aedc-e3cfc4a67f07",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "18"
+                },
+                "hash": "bb78bd68664c9fb46ceb9f89935c5fc18bcda1ba5e6d737ff3bc613db5d44216",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "worker participation action item 5 remove barriers to participation to participate meaningfully in the program workers must feel that their input is welcome their voices will be heard and they can access reporting mechanisms participation will be suppressed if language education or skill levels in the workplace are not considered or if workers fear retaliation or discrimination for speaking up for example if investigations focus on blaming individuals rather than the underlying conditions that led to the incident or if reporting an incident or concern could jeopardize the award of incentivebased prizes rewards or bonuses how to accomplish it  ensure that workers from all levels of the organization can participate regardless of their skill level education or language  provide frequent and regular feedback to show employees that their safety and health concerns are being heard and addressed  authorize sufficient time and resources to facilitate worker participation for example hold safety and health meetings during regular working hours  ensure that the program protects workers from being retaliated against for reporting injuries illnesses and hazards participating in the program or exercising their safety and health rights ensure that other policies and programs do not discourage worker participation  post the 11c fact sheet found at wwwwhistleblowersgov in the workplace or otherwise make it available for easy access by workers note incentive programs such as point systems awards and prizes should be designed in a manner that does not discourage injury and illness reporting otherwise hazards may remain undetected although sometimes required by law or insurance providers mandatory drug testing following injuries can also suppress reporting effective safety and health programs recognize positive safety and health activities such as reporting hazardous conditions or suggesting safer work procedures see oshas employer safety incentive and disincentive policies and practices memorandum dated march 12 2012 wwwwhistleblowersgovmemo20120312 and clarification of oshas position on workplace safety incentive programs and postincident drug testing under 29 cfr  190435b1iv memo dated october 11 2018 wwwwhistleblowersgovmemo20181011 14 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2337,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "aa4a3450-cd71-4bc2-af32-31d1c79ba753",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "19"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "fb129209-5f77-4481-ba09-dae2ef3bf5db",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "19"
+                },
+                "hash": "be5745434e1eed98da03d5570f2dd27b169221f010cbf73b15b3db0c17d10b02",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "hazard identification and assessment one of the root causes of workplace injuries illnesses and incidents is the failure to identify or recognize hazards that are present or that could have been anticipated a critical element of any effective safety and health program is a proactive ongoing process to identify and assess such hazards to identify and assess hazards employers and workers  collect and review information about the hazards present or likely to be present in the workplace  conduct initial and periodic workplace inspections of the workplace to identify new or recurring hazards  investigate injuries illnesses incidents and close callsnear misses to determine the underlying hazards their causes and safety and health program shortcomings  group similar incidents and identify trends in injuries illnesses and hazards reported  consider hazards associated with emergency or nonroutine situations  for each hazard identified determine the severity and likelihood of incidents that could result and use this information to prioritize corrective actions some hazards such as housekeeping and tripping hazards can and should be fixed as they are found fixing hazards on the spot emphasizes the importance of safety and health and takes advantage of a safety leadership opportunity fixing other hazards identified using the processes described here will be addressed in the next section hazard prevention and control action item 1 collect existing information about workplace hazards information on workplace hazards may already be available to employers and workers from both internal and external sources how to accomplish it  collect organize and review information with workers to determine what types of hazards may be present and which workers may be exposed or potentially exposed  information available in the workplace may include  equipment and machinery operating manuals 15 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1973,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "3cfe5788-002b-47eb-bd88-e923f50e5707",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "20"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "c89e0522-59d0-46f5-b2c2-d7b0c46e0499",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "20"
+                },
+                "hash": "2b6371b4726550100097667b1c4abd2f47204ceae677794df638dc19e99a9d47",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "sdss provided by chemical manufacturers  selfinspection reports and inspection reports from insurance carriers government agencies and consultants  records of previous injuries and illnesses such as osha 300 and 301 logs and reports of incident investigations  workers compensation records and reports  patterns of frequently occurring injuries and illnesses  exposure monitoring results industrial hygiene assessments and medical records appropriately redacted to ensure patientworker privacy  existing safety and health programs lockouttagout confined spaces process safety management ppe etc  input from workers including surveys or minutes from safety and health committee meetings  results of job hazard analyses jhas also known as job safety analyses or jsas  information about hazards may be available from outside sources such as  osha national institute for occupational safety and health niosh and centers for disease control and prevention cdc websites publications and alerts  trade associations  labor unions state and local occupational safety and health committeescoalitions cosh groups and worker advocacy groups  safety and health consultants action item 2 inspect the workplace for safety hazards hazards can be introduced over time as workstations and processes change equipment or tools become worn maintenance is neglected or housekeeping practices decline setting aside time to regularly inspect the workplace for hazards can help identify shortcomings so that they can be addressed before an incident occurs how to accomplish it  conduct regular inspections of all operations equipment work areas and facilities have workers participate on the inspection team and talk to them about hazards that they see or report  be sure to document inspections so you can later verify that hazardous conditions are corrected take photos or video of problem areas to facilitate later discussion and brainstorming about how to control them and for use as learning aids  include all areas and activities in these inspections such as storage and warehousing facility and equipment maintenance purchasing and office functions and the activities of onsite contractors subcontractors and temporary employees  regularly inspect both plant vehicles eg forklifts powered industrial trucks and transportation vehicles eg cars trucks  use checklists that highlight things to look for typical hazards fall into several major categories such as those listed below each workplace will have its own list  general housekeeping  slip trip and fall hazards hazard identification and assessment 16 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 2,
+        "end_char_idx": 2666,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "44586dbe-747c-4356-b761-9b619048070c",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "21"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "0d4fd7ae-a7ca-4dbb-81c4-a80c8842c680",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "21"
+                },
+                "hash": "d0602c1a7f6f7d4149b9d8dc30a843dfff59df48d526a5e8593e7bda6693a9db",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "electrical hazards  equipment operation  equipment maintenance  fire protection  work organization and process flow including staffing and scheduling  work practices  workplace violence  ergonomic problems  lack of emergency procedures  before changing operations workstations or workflow making major organizational changes or introducing new equipment materials or processes seek the input of workers and evaluate the planned changes for potential hazards and related risks note many hazards can be identified using common knowledge and available tools for example you can easily identify and correct hazards associated with broken stair rails and frayed electrical cords workers can be a very useful internal resource especially if they are trained in how to identify and assess risks action item 3 identify health hazards identifying workers exposure to health hazards is typically more complex than identifying physical safety hazards for example gases and vapors may be invisible often have no odor and may not have an immediately noticeable harmful health effect health hazards include chemical hazards solvents adhesives paints toxic dusts etc physical hazards noise radiation heat etc biological hazards infectious diseases and ergonomic risk factors heavy lifting repetitive motions vibration reviewing workers medical records appropriately redacted to ensure patientworker privacy can be useful in identifying health hazards associated with workplace exposures how to accomplish it  identify chemical hazardsreview sdss and product labels to identify chemicals in your workplace that have low exposure limits are highly volatile or are used in large quantities or in unventilated spaces identify activities that may result in skin exposure to chemicals  identify physical hazardsidentify any exposures to excessive noise areas where you must raise your voice to be heard by others elevated heat indoor and outdoor or sources of radiation radioactive materials xrays or radiofrequency radiation hazard identification and assessment 17 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 2,
+        "end_char_idx": 2123,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "b1a36266-3ab0-4ec3-b3f6-883ae4af88a7",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "22"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "bf0e9d21-a0fd-4467-a7f1-c84598163adb",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "22"
+                },
+                "hash": "6e03a589c781e08f2113ecf878253019e62e07961ab5a0d502402394d45cbebd",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "identify biological hazardsdetermine whether workers may be exposed to sources of infectious diseases molds toxic or poisonous plants or animal materials fur or scat capable of causing allergic reactions or occupational asthma  identify ergonomic risk factorsexamine work activities that require heavy lifting work above shoulder height repetitive motions or tasks with significant vibration  conduct quantitative exposure assessments when possible using air sampling or direct reading instruments  review medical records to identify cases of musculoskeletal injuries skin irritation or dermatitis hearing loss or lung disease that may be related to workplace exposures note identifying and assessing health hazards may require specialized knowledge small businesses can obtain free and confidential occupational safety and health advice services including help identifying and assessing workplace hazards through oshas onsite consultation program see wwwoshagovconsultation action item 4 conduct incident investigations workplace incidentsincluding injuries illnesses close callsnear misses and reports of other concernsprovide a clear indication of where hazards exist by thoroughly investigating incidents and reports you will identify hazards that are likely to cause future harm the purpose of an investigation must always be to identify the root causes and there is often more than one of the incident or concern in order to prevent future occurrences how to accomplish it  develop a clear plan and procedure for conducting incident investigations so that an investigation can begin immediately when an incident occurs the plan should cover items such as  who will be involved  lines of communication  materials equipment and supplies needed  reporting forms and templates  train investigative teams on incident investigation techniques emphasizing objectivity and openmindedness throughout the investigation process  conduct investigations with a trained team that includes representatives of both management and workers  investigate close callsnear misses  identify and analyze root causes to address underlying program shortcomings that allowed the incidents to happen  communicate the results of the investigation to managers supervisors and workers to prevent recurrence note osha has special reporting requirements for workrelated incidents that lead to serious injury or a fatality 29 cfr 190439 osha must be notified within 8 hours of a workrelated fatality and within 24 hours of an amputation loss of an eye or inpatient hospitalization note effective incident investigations do not stop at identifying a single factor that triggered an incident they ask the questions why and what led to the failure for example if a piece of equipment fails a good investigation asks why did it fail was it maintained properly was it beyond its service life and how could this failure have been prevented similarly a good incident investigation does not stop when it concludes that a worker made an error it asks such questions as was the worker provided with appropriate tools and time to do the work was the worker adequately trained and was the worker properly supervised hazard identification and assessment 18 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 3293,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "91c03bae-3d22-4c12-a81a-4f5e837585db",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "23"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "a2da4da4-2378-4473-9d99-02b0bfb7c799",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "23"
+                },
+                "hash": "9a68eb29fdf5fcc1568b57bf4f634caad688507b1876f90384ab2a53b3253db1",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "action item 5 identify hazards associated with emergency and nonroutine situations emergencies present hazards that need to be recognized and understood nonroutine or infrequent tasks including maintenance and startupshutdown activities also present potential hazards plans and procedures need to be developed for responding appropriately and safely to hazards associated with foreseeable emergency scenarios and nonroutine situations how to accomplish it  identify foreseeable emergency scenarios and nonroutine tasks taking into account the types of material and equipment in use and the location within the facility scenarios such as the following may be foreseeable  fires and explosions  chemical releases  hazardous material spills  startups after planned or unplanned equipment shutdowns  nonroutine tasks such as infrequently performed maintenance activities  structural collapse  disease outbreaks  weather emergencies and natural disasters  medical emergencies  workplace violence action item 6 characterize the nature of identified hazards identify interim control measures and prioritize the hazards for control the next step is to assess and understand the hazards identified and the types of incidents that could result from worker exposure to those hazards this information can be used to develop interim controls and to prioritize hazards for permanent control see hazard prevention and control how to accomplish it  evaluate each hazard by considering the severity of potential outcomes the likelihood that an event or exposure will occur and the number of workers who might be exposed  use interim control measures to protect workers until more permanent solutions can be implemented  prioritize the hazards so that those presenting the greatest risk are addressed first note however that employers have an ongoing obligation to control all serious recognized hazards and to protect workers note risk is the product of hazard and exposure thus risk can be reduced by controlling or eliminating the hazard or by reducing workers exposure to hazards an assessment of risk helps employers understand hazards in the context of their own workplace and prioritize hazards for permanent control hazard identification and assessment 19 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2322,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "dc22d118-4a7a-48d2-8c5d-158538f05ac8",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "24"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "3a2113c8-1507-4bad-87e3-aed7bd4c6e3f",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "24"
+                },
+                "hash": "60eb88e0f35195c63660079a0a4b3eec280597d49435fc9600f64c6b0d305406",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "hazard prevention and control effective controls protect workers from workplace hazards help avoid injuries illnesses and incidents minimize or eliminate safety and health risks and help employers provide workers with safe and healthful working conditions the processes described in this section will help employers prevent and control hazards identified in the previous section to effectively control and prevent hazards employers should  involve workers who often have the best understanding of the conditions that create hazards and insights into how they can be controlled  identify and evaluate options for controlling hazards using a hierarchy of controls  use a hazard control plan to guide the selection and implementation of controls and implement controls according to the plan  develop plans with measures to protect workers during emergencies and nonroutine activities  evaluate the effectiveness of existing controls to determine whether they continue to provide protection or whether different controls may be more effective review new technologies for their potential to be more protective more reliable or less costly action item 1 identify control options a wealth of information exists to help employers investigate options for controlling identified hazards before selecting any control options it is essential to solicit workers input on their feasibility and effectiveness how to accomplish it  review sources such as osha standards and guidance industry consensus standards niosh publications manufacturers literature and engineering reports to identify potential control measures keep current on relevant information from trade or professional associations  investigate control measures used in other workplaces and determine whether they would be effective at your workplace 20 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1878,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "13f62373-7679-4c02-bdab-798466e005aa",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "25"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "615fa006-3970-4dcf-bcd1-34e2691ff96f",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "25"
+                },
+                "hash": "a800dbbc73d40d7866c170a0d056d5dd710ac3bb79dae7e3ee8202a7d09b46f2",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "get input from workers who may be able to suggest and evaluate solutions based on their knowledge of the facility equipment and work processes  for complex hazards consult with safety and health experts including oshas onsite consultation program action item 2 select controls employers should select the controls that are the most feasible effective and permanent how to accomplish it  eliminate or control all serious hazards hazards that are causing or are likely to cause death or serious physical harm immediately  use interim controls while you develop and implement longerterm solutions  select controls according to a hierarchy that emphasizes engineering solutions including elimination or substitution first followed by safe work practices administrative controls and finally ppe  avoid selecting controls that may directly or indirectly introduce new hazards examples include exhausting contaminated air into occupied work spaces or using hearing protection that makes it difficult to hear backup alarms  review and discuss control options with workers to ensure that controls are feasible and effective  use a combination of control options when no single method fully protects workers note whenever possible select equipment machinery and materials that are inherently safer based on the application of prevention through design ptd principles apply ptd when making your own facility equipment or product design decisions for more information see the link to the niosh ptd initiative on the recommended practices web page action item 3 develop and update a hazard control plan a hazard control plan describes how the selected controls will be implemented an effective plan will address serious hazards first interim controls may be necessary but the overall goal is to ensure effective longterm control of hazards it is important to track progress toward completing the control plan and periodically at least annually and when conditions processes or equipment change verify that controls remain effective how to accomplish it  list the hazards needing controls in order of priority  assign responsibility for installing or implementing the controls to a specific person or persons with the power or ability to implement the controls hierarchy of controls most effective change the way people work least effective physically remove the hazard replace the hazard isolate people from the hazard protect the worker with personal protective equipment administrative controls ppe engineering controls substitution elimination source niosh hazard prevention and control 21 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 2657,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "649a1c1a-91ea-4480-87c6-4affc9a0afba",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "26"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "22925aba-4e49-42ad-b63b-f70824b3c28f",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "26"
+                },
+                "hash": "443c2630e5655a811a34171530509d56dbbe275cf9f0c92af88c88097abf057f",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "establish a target completion date  plan how you will track progress toward completion  plan how you will verify the effectiveness of controls after they are installed or implemented action item 4 select controls to protect workers during nonroutine operations and emergencies the hazard control plan should include provisions to protect workers during nonroutine operations and foreseeable emergencies depending on the workplace these could include fires explosions chemical releases hazardous material spills unplanned equipment shutdowns infrequent maintenance activities natural and weather disasters workplace violence terrorist or criminal attacks disease outbreaks eg pandemic influenza or medical emergencies nonroutine tasks or tasks workers dont normally do should be approached with particular caution prior to initiating such work review jsasjhas with any workers involved and notify others about the nature of the work work schedule and any necessary precautions how to accomplish it  develop procedures to control hazards that may arise during nonroutine operations eg removing machine guarding during maintenance and repair  develop or modify plans to control hazards that may arise in emergency situations  procure any equipment needed to control emergencyrelated hazards  assign responsibilities for implementing the emergency plan  conduct emergency drills to ensure that procedures and equipment provide adequate protection during emergency situations note depending on your location type of business and materials stored or used on site authorities including local fire and emergency response departments state agencies the us environmental protection agency the department of homeland security and osha may have additional requirements for emergency plans ensure that your procedures comply with these requirements action item 5 implement selected controls in the workplace once hazard prevention and control measures have been identified they should be implemented according to the hazard control plan how to accomplish it  implement hazard control measures according to the priorities established in the hazard control plan  when resources are limited implement measures on a worstfirst basis according to the hazard ranking priorities risk established during hazard identification and assessment note however that regardless of limited resources employers have an obligation to protect workers from recognized serious hazards  promptly implement any measures that are easy and inexpensivesuch as general housekeeping removal of obvious tripping hazards such as electrical cords and basic lightingregardless of the level of hazard they involve hazard prevention and control 22 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 2777,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "f6b2e70e-caab-420c-9ed0-7c34a31c5d11",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "27"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "e2afe5ce-7c8a-47f6-b187-1ac075830d8c",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "27"
+                },
+                "hash": "0a212d867b063309bf5c7300ae389dd893bdac4847fd8ef7f191c6430ae61b29",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "action item 6 follow up to confirm that controls are effective to ensure that control measures are and remain effective employers should track progress in implementing controls inspect and evaluate controls once they are installed and follow routine preventive maintenance practices how to accomplish it  track progress and verify implementation by asking the following questions  have all control measures been implemented according to the hazard control plan  have engineering controls been properly installed and tested  have workers been appropriately trained so that they understand the controls including how to operate engineering controls safe work practices and ppe use requirements  are controls being used correctly and consistently  conduct regular inspections and industrial hygiene monitoring if indicated to confirm that engineering controls are operating as designed  evaluate control measures to determine if they are effective or need to be modified involve workers in the evaluation of the controls if controls are not effective identify select and implement further control measures that will provide adequate protection  confirm that work practices administrative controls and ppe use policies are being followed  conduct routine preventive maintenance of equipment facilities and controls to help prevent incidents due to equipment failure hazard prevention and control 23 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1471,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "3b6df64a-1667-40c0-9115-ae48fc29462b",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "28"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "f2d81016-ae91-428b-a549-61b94b213315",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "28"
+                },
+                "hash": "95dcb4cb2341d3644ee76ce2ef72e1a1cb95d39755178d944aa8778d73cb44d8",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "education and training education and training are important tools for informing workers and managers about workplace hazards and controls so they can work more safely and be more productive another role of education and training however is to provide workers and managers with a greater understanding of the safety and health program itself so that they can contribute to its development and implementation education and training provides employers managers supervisors and workers with  knowledge and skills needed to do their work safely and avoid creating hazards that could place themselves or others at risk  awareness and understanding of workplace hazards and how to identify report and control them  specialized training when their work involves unique hazards additional training may be needed depending on the roles assigned in the program for example employers managers and supervisors may need specific training to ensure that they can fulfill their roles in providing leadership direction and resources for the safety and health program workers assigned specific roles in the program eg incident investigation team members may need training to ensure their full participation in those functions effective training and education can be provided outside a formal classroom setting peerto peer training onthejob training and worksite demonstrations can be effective in conveying safety concepts ensuring understanding of hazards and their controls and promoting good work practices action item 1 provide program awareness training managers supervisors and workers all need to understand the programs structure plans and procedures having this knowledge ensures that everyone can fully participate in developing implementing and improving the program how to accomplish it  provide training to all managers supervisors workers and contractor subcontractor and temporary agency workers on  safety and health policies goals and procedures  functions of the safety and health program  whom to contact with questions or concerns about the program including contact information 24 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2160,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "821f3030-d4aa-41b8-ae41-ccbe22f2edda",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "29"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "343a83a8-16d3-46c8-8b09-51c069663c68",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "29"
+                },
+                "hash": "db7d14cd240f0fbf12e0bcda0130ea6d5ea50a308d31ef17d94cdd528f80d821",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "how to report hazards injuries illnesses and close callsnear misses  what to do in an emergency  the employers responsibilities under the program  workers rights under the osh act  provide information on the safety and health hazards of the workplace and the controls for those hazards  ensure that training is provided in the languages and at a literacy level that all workers can understand  emphasize that the program can only work when everyone is involved and feels comfortable discussing concerns making suggestions and reporting injuries incidents and hazards  confirm as part of the training that all workers have the right to report injuries incidents hazards and concerns and to fully participate in the program without fear of retaliation action item 2 train employers managers and supervisors on their roles in the program employers managers and supervisors are responsible for workers safety yet sometimes have little training on safetyrelated concepts and techniques they might benefit from specific training that allows them to fulfill their leadership roles in the program how to accomplish it  reinforce employers managers and supervisors knowledge of their responsibilities under the osh act and the workers rights guaranteed by the act  train employers managers and supervisors on procedures for responding to workers reports of injuries illnesses and incidents including ways to avoid discouraging reporting  instruct employers managers and supervisors on fundamental concepts and techniques for recognizing hazards and methods of controlling them including the hierarchy of controls see hazard prevention and control  instruct employers managers and supervisors on incident investigation techniques including root cause analysis education and training 25 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 2,
+        "end_char_idx": 1854,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "2c26d43f-a615-47c6-9215-af94378baa2d",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "30"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "28c5a481-52ec-4219-82bd-f715cc4c4bed",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "30"
+                },
+                "hash": "171f836bba64e72f63036885b2d7bb070d54159eca7655069cc045653ab3b214",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "action item 3 train workers on their specific roles in the safety and health program additional training may be needed to ensure that workers can incorporate any assigned safety and health responsibilities into their daily routines and activities how to accomplish it  instruct workers on how to report injuries illnesses incidents and concerns if a computerized reporting system is used ensure that all employees have the basic computer skills and computer access sufficient to submit an effective report  instruct workers assigned specific roles within the safety and health program on how they should carry out those responsibilities including  hazard recognition and controls see action item 4  participation in incident investigations  program evaluation and improvement  provide opportunities for workers to ask questions and provide feedback during and after the training  as the program evolves institute a more formal process for determining the training needs of workers responsible for developing implementing and maintaining the program action item 4 train workers on hazard identification and controls providing workers with an understanding of hazard recognition and control and actively involving them in the process can help to eliminate hazards before an incident occurs how to accomplish it  train workers on techniques for identifying hazards such as job hazard analysis see osha publication 3071  train workers so they understand and can recognize the hazards they may encounter in their own jobs as well as more general work related hazards  instruct workers on concepts and techniques for controlling hazards including the hierarchy of controls and its importance  train workers on the proper use of work practice and administrative controls  train workers on when and how to wear required ppe  provide additional training as necessary when a change in facilities equipment processes materials or work organization could increase hazards and whenever a worker is assigned a new task education and training 26 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2107,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "64896b2d-66f2-4be7-91a3-5e44e982a408",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "31"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "0680e0c2-fb80-4cc4-a16d-32719beace0f",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "31"
+                },
+                "hash": "0a04a16eff0edf6b12bf3ce1d7cda21617ccb71a94e4a98d586fb8f2b9137568",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "program evaluation and improvement once a safety and health program is established it should be evaluated initially to verify that it is being implemented as intended after that employers should periodically and at least annually step back and assess what is working and what is not and whether the program is on track to achieve its goals whenever these assessments identify opportunities to improve the program employers managers and supervisorsin coordination with workersshould make adjustments and monitor how well the program performs as a result sharing the results of monitoring and evaluation within the workplace and celebrating successes will help drive further improvement program evaluation and improvement includes  establishing reporting and tracking goals and targets that indicate whether the program is making progress  evaluating the program initially and periodically thereafter to identify shortcomings and opportunities for improvement  providing ways for workers to participate in program evaluation and improvement action item 1 monitor performance and progress the first step in monitoring is to define indicators that will help track performance and progress next employers managers supervisors and workers need to establish and follow procedures to collect analyze and review performance data both lagging and leading indicators should be used lagging indicators generally track worker exposures and injuries that have already occurred leading indicators track how well various aspects of the program have been implemented and reflect steps taken to prevent injuries or illnesses before they occur how to accomplish it  develop and track indicators of progress toward established safety and health goals  track lagging indicators such as  number and severity of injuries and illnesses  results of worker exposure monitoring that show that exposures are hazardous  workers compensation data including claim counts rates and cost 27 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2034,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "43fe5db0-4581-4936-aba8-8569b5eaef41",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "32"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "6f028171-345f-4aa2-89b5-3e736109d927",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "32"
+                },
+                "hash": "e2061eb46938719940b78d5ed64350be48cd94f8dbb6c8b7840e6e847e63057e",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "track leading indicators such as  level of worker participation in program activities  number of employee safety suggestions  number of hazards near misses and first aid cases reported  amount of time taken to respond to reports  number and frequency of management walkthroughs  number and severity of hazards identified during inspections  number of workers who have completed required safety and health training  timely completion of corrective actions after a workplace hazard is identified or an incident occurs  timely completion of planned preventive maintenance activities  worker opinions about program effectiveness obtained from a safety climate or safety opinion survey  analyze performance indicators and evaluate progress over time  share results with workers and invite their input on how to further improve performance  when opportunities arise share your experience and compare your results to similar facilities within your organization with other employers you know or through business or trade associations note indicators can be either quantitative or qualitative whenever possible select indicators that are measurable quantitative and that will help you determine whether you have achieved your program goals the number of reported hazards and near misses would be a quantitative indicator a single worker expressing a favorable opinion about program participation would be a qualitative indicator action item 2 verify that the program is implemented and is operating initially and at least annually employers need to evaluate the program to ensure that it is operating as intended is effective in controlling identified hazards and is making progress toward established safety and health goals and objectives the scope and frequency of program evaluations will vary depending on changes in osha standards the scope complexity and maturity of the program and the types of hazards it must control how to accomplish it  verify that the core elements of the program have been fully implemented  involve workers in all aspects of program evaluation including reviewing information such as incident reports and exposure monitoring results establishing and tracking performance indicators and identifying opportunities to improve the program  verify that the following key processes are in place and operating as intended  reporting injuries illnesses incidents hazards and concerns  conducting workplace inspections and incident investigations  tracking progress in controlling identified hazards and ensuring that hazard control measures remain effective  collecting and reporting any data needed to monitor progress and performance program evaluation and improvement 28 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 2,
+        "end_char_idx": 2767,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "a8dd4ce0-efba-4357-89a7-7101c8b32882",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "33"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "e70edb4b-4013-474f-a35c-9b4e9becb8dc",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "33"
+                },
+                "hash": "9f3275124f6719e90be01901a8cf58fc2ead9d6f9bdf993362afc6c21c7fe82d",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "review the results of any compliance audits to confirm that any program shortcomings are being identified verify that actions are being taken that will prevent recurrence action item 3 correct program shortcomings and identify opportunities to improve whenever a problem is identified in any part of the safety and health program employersin coordination with supervisors managers and workersshould take prompt action to correct the problem and prevent its recurrence how to accomplish it  if you discover program shortcomings take actions needed to correct them  proactively seek input from managers workers supervisors and other stakeholders on how you can improve the program  determine whether changes in equipment facilities materials key personnel or work practices trigger any need for changes in the program  determine whether your performance indicators and goals are still relevant and if not how you could change them to more effectively drive improvements in workplace safety and health note the scope and frequency of program evaluations will depend on the scope complexity and maturity of the program and on the types of hazards it must control program evaluations should be conducted periodically and at least annually but might also be triggered by a change in process or equipment or an incident such as a serious injury significant property damage or an increase in safetyrelated complaints program evaluation and improvement 29 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1524,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "5996361b-097e-4682-a65e-aba85afd411d",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "34"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "92876d63-832c-44b6-b253-9337700197a4",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "34"
+                },
+                "hash": "b16f4d25e9d7a1d20cc0d8ba57d27f2b8668f2e0aa24fda8e97021e78e42e678",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "communication and coordination for host employers contractors and staffing agencies in todays economy an increasing number of workers are assigned by staffing agencies to work at specific host worksites under the direction and control of the host employer examples include seasonal workers such as delivery drivers and warehouse workers who help fill a temporary staffing need as well as office and production workers who may be placed in both short and longterm assignments in these situations it is important for the staffing agency and the host employer to communicate and coordinate to provide and maintain a safe work environment for their workers in other situations some workers are employed by a host employer and others by a contractor or subcontractor examples include electrical or mechanical contractors working in a facility a vendor installing or maintaining equipment or longterm contractors providing building cleaning and maintenance osha refers to these as multiemployer worksites in these circumstances it is important that each employer and contractor consider how its work and safety activities can affect the safety of other employers and workers at the site in both temporary worker and multiemployer situations safety is enhanced if employers establish mechanisms to coordinate their efforts and communicate effectively to afford all workers equal protection against hazards these mechanisms include measures to ensure that all workers on site and their representatives can participate in preventing injuries and illnesses failure to take these steps may undermine safety programs for example if the different employers have inconsistent policies for when and where to wear ppe workers may mistakenly believe that the equipment is not needed leading to injury inconsistent safety policies may also cause workers to question the credibility of safety and health programs resulting in less meaningful employee engagement and participation 30 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2040,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "9ce1b21e-2856-46b8-8a80-8b67cfc2b477",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "35"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "882eb7d7-e12e-4b40-b6c3-757bba94f5b2",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "35"
+                },
+                "hash": "47f064186c0b90f56cbd783332432711c0cc9cb993b50b4634d7fde144523f30",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "effective communication and coordination among such employers means that  before coming on site contractors and staffing agencies and their workers are aware of  the types of hazards that may be present  the procedures or measures they need to use to avoid or control their exposure to these hazards  how to contact the host employer to report an injury illness or incident or if they have a safety concern  host employers and their workers are aware of  the types of hazards that may arise from the work being done on site by workers employed by contractors or staffing agencies  the procedures or measures needed to avoid or control exposure to these hazards  how to contact the contract or staffing firm if they have a safety concern  what to do in case of an emergency definitions host employer an employer who has general supervisory authority over the worksite including controlling the means and manner of work performed and having the power to correct safety and health hazards or require others to correct them contractor an individual or firm that agrees to furnish materials or perform services at a specified price and controls the details of how the work will be performed and completed staffing agency a firm that provides temporary workers to host employers a staffing agency hires its own employees and assigns them to support or supplement a clients workforce in situations involving employee absences temporary skill shortages seasonal workloads and special projects temporary workers workers hired and paid by a staffing agency and assigned to work for a host employer whether or not the job is actually temporary communication and coordination for host employers contractors and staffing agencies 31 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1796,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "98374317-88b5-46c2-a6ac-a9e1b5a1a30a",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "36"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "387939bb-a4cf-4efc-a077-92a9b879ad98",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "36"
+                },
+                "hash": "9dff3d215ae4dc906d8ecc362c9054dfe7fe06ce90e47eba942b85360a911772",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "action item 1 establish effective communication each host employer establishes and implements a procedure to ensure the exchange of information about hazards present on site and the hazard control measures in place thus all workers on the site are aware of worksite hazards and the methods and procedures needed to control exposures to them how to accomplish it  the host employer communicates with contractors and staffing agencies to determine which among them will implement and maintain the various parts of the safety and health program to ensure protection of all onsite workers before work begins these determinations can be included in contract documents that define the relationships between the parties  the host employer establishes and implements procedures to exchange information with contractors and staffing agencies about hazards present in the workplace and the measures that have been implemented to prevent or control such hazards  the host employer gathers and disseminates information sufficient to enable each employer to assess hazards encountered by its workers and to avoid creating hazards that affect workers on the site  contractors and staffing agencies regularly give the host employer any information about injuries illnesses hazards or concerns reported by their workers and the results of any tracking or trend analysis they perform  each contractor establishes and implements a procedure for providing the host employer with information about the hazards and control measures associated with the work being done by its workers and the procedures it will use to protect workers on the site  the host employer gives contract employers and staffing agencies the right to conduct site visits and inspections and to access injury and illness records and other safety and health information  the host employer communicates with contractors and staffing agencies and their workers about nonroutine and emergency hazards and emergency procedures  information is communicated before onsite work starts and as needed if conditions change communication and coordination for host employers contractors and staffing agencies 32 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2226,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "a23365a1-cd4b-43b7-9294-6cc850895b72",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "37"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "24efb448-50a4-44f6-a46c-0ade979a3702",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "37"
+                },
+                "hash": "02775ef33992df8242225d07dc13006c867f2b0f16f8a10fbc4a4878ecdf210d",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "action item 2 establish effective coordination host employers contractors and staffing agencies coordinate on work planning scheduling and resolving program differences to identify and work out any concerns or conflicts that could impact safety or health how to accomplish it  host employers  include in contracts and bid documents any safetyrelated specifications and qualifications and ensure that contractors and staffing agencies selected for the work meet those requirements  identify issues that may arise during onsite work and include procedures to be used by the host employer and contractors andor staffing agencies for resolving any conflicts before work starts  host employers coordinate with contractors and staffing agencies to  ensure that work is planned and scheduled to minimize impacts on safety  ensure that staffing agency workers are adequately trained and equipped before arriving on the worksite  harmonize their safety and health policies and procedures to resolve important differences so that all workers at the site have the same protection and receive consistent safety information  host employers and staffing agencies  work together to deal with unexpected staffing needs by ensuring that enough trained and equipped workers are available or that adequate lead time is provided to train and equip workers  make sure that managers with decision making authority are available and prepared to deal with daytoday coordination issues communication and coordination for host employers contractors and staffing agencies 33 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1624,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "cc922835-0d78-4b28-bd12-a266be1ac38f",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "38"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "720d3d8c-a01d-4953-a122-6d717c52fe01",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "38"
+                },
+                "hash": "5160ac0d16b5d23a3eea4026ed33ae4fe4d6c3dbb0eb6eb12be8642f274184ff",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "list of abbreviations cdc centers for disease control and prevention niosh national institute for occupational safety and health osha occupational safety and health administration ppe personal protective equipment ptd prevention through design sds safety data sheet sharp safety and health achievement recognition program vpp voluntary protection programs glossary of terms close callnear miss an incident that could have but did not result in death injury or illness they signal that hazards are not being adequately controlled or that new hazards have arisen contractor an individual or firm that agrees to furnish materials or perform services at a specified price elimination a change in process or workplace condition that removes the hazard or ensures that no worker can be exposed to a hazard under any foreseeable circumstances hierarchy of controls a system for selecting and implementing the most effective control solutions for workplace hazards that includes  elimination  substitution  engineering controls  administrative controls  personal protective equipment this is known as the hierarchy of controls because they should be considered in the order presented controls at the top of the hierarchy are potentially more effective and more protective than those lower in the hierarchy 34 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1377,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "f25e0f46-0bb8-4668-acc3-d5a2168816d6",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "39"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "198fe1ff-8cf5-45f5-a328-e5275c6a760f",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "39"
+                },
+                "hash": "3107e87b1e1ff5f254483877c3daa2260e31ac6549098b5bd28eabdc3a7e2cf4",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "host employer an employer who has general supervisory authority over the worksite including controlling the means and manner of work performed and having the power to correct safety and health hazards or require others to correct them industrial hygiene the science of protecting and enhancing the health and safety of people at work and in their communities job hazard analysis a technique that focuses on job tasks as a way to identify hazards before they occur it focuses on the relationships among the worker the task the tools and the work environment jointemployed worker a worker hired and paid by a staffing agency and assigned to work for a host employer whether or not the job is actually temporary lagging indicators measures of the occurrence and frequency of events in the past such as the number or rate of injuries illnesses and fatalities leading indicators measures intended to predict the occurrence of events in the future leading indicators are proactive preventative and predictive measures that provide information about the effective performance of safety and health program activities that can drive the control of workplace hazards metrics measures of performance multiemployer worksite any worksite where two or more employers are present see oshas multiemployer citation policy nonroutine operations operations that do not occur frequently or that occur as a result of an emergency peertopeer training a type of onthejob training where workers exchange information about hazards controls reporting procedures and work procedures that are relevant to the safety and health program prevention through design a niosh national initiative to prevent or reduce occupational injuries illnesses and fatalities through the inclusion of prevention considerations in all designs that impact workers ptd encompasses all of the efforts to anticipate and design out hazards to workers in facilities work methods and operations processes equipment tools products new technologies and the organization of work quantitative exposure assessment techniques used to quantitatively measure workers exposure to hazards particularly health hazards such as sampling for chemicals dusts biological organisms noise radiation or other assessments the purpose of such assessments is to quantify the level of workers exposure to a hazard also known as exposure monitoring root cause analysis a collective term that describes a wide range of approaches tools and techniques used to uncover causes of problems glossary of terms 35 oshagovsafetymanagement recommended practices for safety and health programs",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2603,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "4c6f5c8b-e569-4310-9f6a-64b57a2dc1a9",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 40,
+            "file_path": "OSHA3885.pdf",
+            "source": "40"
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "80e30e40-2941-4250-a1fe-d1b3d7a3f27d",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 40,
+                    "file_path": "OSHA3885.pdf",
+                    "source": "40"
+                },
+                "hash": "e75d1ce8c84f36f045455f375e3b4c81b772f4d2027a5c24d9748aeb0992639c",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "safety and health achievement an osha program that recognizes small business employers recognition program who have used oshas onsite consultation program services and operate an exemplary injury and illness prevention program safety data sheet written or printed material used to communicate the hazards of substances and chemical products to employees prepared in accordance with paragraph g of oshas hazard communication standard serious hazards hazards that are causing or are likely to cause death or serious physical harm see oshas field operations manual chapter 4 shortcoming a fault deficiency or gap that results in a failure to meet program design criteria staffing agency a firm that provides temporary workers to host employers a staffing agency hires its own employees and assigns them to support or supplement a clients workforce in situations involving employee absences temporary skill shortages seasonal workloads and special projects substitution the replacement of toxic or hazardous materials or the equipment or processes used with them with ones that are less harmful voluntary protection programs an osha initiative that recognizes employers and workers in the private industry and federal agencies who have implemented effective safety and health management systems and maintain injury and illness rates below the us bureau of labor statistics averages for their respective industries work practices a set of procedures for performing a specific work assignment safely glossary of terms 36 recommended practices for safety and health programs oshagovsafetymanagement",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1591,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    }
+]

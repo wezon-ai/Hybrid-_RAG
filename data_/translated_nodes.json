@@ -1,0 +1,1154 @@
+[
+    {
+        "id_": "7bf1671f-8392-4d51-b1c6-f917500f8108",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 1
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "ec4176c1-653b-4367-ab1d-b54149f82777",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 1
+                },
+                "hash": "619234eb017236cc627200929895a5e0f8c30ad401994581406a2a390a0cfd62",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "70e45c19-e65c-43cf-a475-197c825c44bc",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 2
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "498c7a76-bc44-4f2d-a2e6-e4911f12c00c",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 2
+                },
+                "hash": "381827a812d0cbc9a0779910b2668326a6e01ecf653a9ce0d935fcccbdcc73af",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "8e0a519d-b9d3-443a-ac8f-52cf72bd4e7c",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 3
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "1aeae4eb-03c6-4ed3-95d7-4b6ae501c4f8",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 3
+                },
+                "hash": "78573a80225b40d642103607bffcf2874a37813cb432fb4af457bfef8a2bb291",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 0,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "d61306da-1404-4a74-b24d-3c7380eaf033",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 4
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "143ddbd4-a0e7-4956-a139-fb102cb602bc",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 4
+                },
+                "hash": "67e9b1113b7543f79204e6e1db1d7e0501bbac2078e075930dce174983a02ba6",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 technical guidelines for determining and installing the discharge capacity of safety valves 1 purpose the purpose of these guidelines is to provide information necessary for the determination of setting pressure calculation of discharge capacity and installation of safety valves or alternative protective devices hereinafter referred to as safety valves installed in chemical plants and their associated equipment hereinafter referred to as vessels 2 scope these guidelines apply to safety valves and rupture discs installed in vessels 3 definitions 1 the definitions of terms used in these guidelines are as follows a safety valve refers to a valve that automatically releases fluid when the pressure at the inlet reaches the set pressure with the spring operating and returns to normal conditions when the pressure drops below a certain level b rupture disc refers to a thin disc installed in vessels that ruptures when the pressure at the inlet reaches the set pressure to allow fluid to discharge as an alternative protective device to safety valves c set pressure refers to the gauge pressure at the inlet of the safety valve where the safety valve is set to operate when an overpressure condition occurs in the vessel d required capacity refers to the amount of fluid that can be discharged due to all possible pressure increase factors e relieving capacity refers to the largest amount of fluid that can be discharged among the required capacities f design pressure refers to the minimum allowable thickness of the vessel or the   1",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1553,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "771e9461-d94a-4faa-8c53-2978f549f9fc",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 5
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "e5a502bc-a9b2-4e3a-b937-62485d580569",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 5
+                },
+                "hash": "dd6562f2da8fe01f649a1c04a7041eb03440c2f5ca082104f4a42fbc9e3e61af",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 it refers to the pressure used in the design phase to determine the physical characteristics of various parts a maximum allowable working pressure mawp means the highest pressure that can be allowed at the top of a vessel calculated based on the thickness of the material used in the manufacture of the equipment excluding corrosion allowances b accumulated pressure refers to the maximum pressure that can be momentarily allowed within the equipment due to the pressure accumulated by safety valves or similar devices when they operate c back pressure refers to the pressure acting on the discharge side of safety valves which is the sum of overlapping back pressure and accumulated back pressure d safety measures refer to warning measures taken to prevent the valve from being opened and closed arbitrarily this includes methods such as cso car sealed open the valve is open with safety measures and csc car sealed close the valve is closed with safety measures e superimposed back pressure refers to the static pressure acting on the discharge side before the safety valve operates f builtup back pressure refers to the increase in pressure at the discharge side due to fluid discharge after the safety valve has operated g cold differential test pressure refers to the test pressure that should be applied in the safety valve discharge test equipment reflecting the impact of back pressure or operating temperature differences between the actual installation position of the safety valve and the test equipment 2 definitions of terms used in this guidance will be in accordance with the definitions in the industrial safety and health act the enforcement decree of the same law the enforcement rules of the same law and the regulations of industrial safety and health standards unless there are specific regulations for major substances 4 target and installation standards for safety valves and the like 41 target for installation 1 the subjects that should have safety valves and similar devices safety valves rupture discs pressure relief devices installed are as follows",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 2091,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "991df650-06b2-406c-a740-233735521499",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 6
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "14834f7a-fa6a-479b-873b-a50d3e845e8f",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 6
+                },
+                "hash": "57931196188e673375fc833968cd69a1a09dd32d879c88ac4e495bf790ff54c8",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 a pressure vessels excluding pressure vessels with an inner diameter of 150 mm or less applies when there is a concern that the design pressure or maximum allowable pressure of a pressure vessel may be exceeded due to tube rupture in a tubular heat exchanger b positive displacement compressors to be installed at each stage of a multistage compressor c positive displacement pumps applies to pump types designed to structurally exceed the design pressure of related equipment due to pressure rise from blockage on the discharge side d piping applies to piping where concerns of structurally rupturing due to thermal expansion of liquid at ambient temperature caused by shutoff by two valves etc e installed on vessels etc where there is a concern that pressure may structurally exceed the design pressure of the device due to abnormal conditions such as abnormal chemical reactions or valve blockage causing pressure rise 2 if there are no shutoff valves such as check valves automatic control valves or manual control valves between connecting piping of vessels etc subject to the provisions of 1 a safety valve etc can be installed for one vessel etc 3 selection of safety valves etc shall refer to selection flowchart of safety valves etc in appendix 1 42 guidelines for installation of rupture discs 1 the criteria for installing rupture discs are as follows a cases where there is a risk of rapid pressure rise such as in reaction runaway incidents b cases where there is a concern of contaminating the surrounding work environment due to leakage of toxic substances however if facilities are installed to handle discharged materials after installing a safety valve rupture discs may not need to be installed c cases where there is a concern that accumulated foreign substances on the safety valve during operation may degrade the function of the safety valve in this case a rupture disc must be installed on the nozzle of the protective device d cases where the corrosiveness of the fluid raises concerns about the selection of the material for the safety valve 2 in structures such as reactors storage tanks etc where large amounts of toxic substances may continuously leak externally rupture discs and safety valves should be installed in series and a pressure gauge or alarm device for leak detection should be installed between the rupture disc and safety valve",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2384,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "97798b68-26cf-4efa-8078-6816df8ea718",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 7
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "08cf8ccc-c6b3-4b4f-ae6e-0192e12c0957",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 7
+                },
+                "hash": "24f7020009aaf7a855cf3a691017512ce211c6b0faf8331fc61e4b949ff62f54",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 detailed information will follow separate relevant technical guidelines 43 setting pressure 1 the setting pressure of safety valves and the like must be higher than the design pressure or maximum allowable pressure of the container to be protected however in cases where the discharge capacity is large and two or more safety valves are installed it is not necessary in such cases table 1 setting pressure and accumulation pressure of safety valve one safety valve multiple safety valves installed installed reason setting pressure accumulation pressure setting pressure accumulation pressure not in case of fire first valve 100 or less 110 or less 100 or less 116 or less other valves   105 or less 116 or less in case of fire first valve 100 or less 121 or less 100 or less 121 or less other valves   110 or less 121 or less note all values are given as a percentage of design pressure or maximum allowable pressure a in cases where two or more safety valves and the like are installed to prepare for factors other than external fires that cause pressure increase one of the safety valves and the like must be set below the design pressure or maximum allowable pressure of the container and the other can be set below 105 of the design pressure or maximum allowable pressure b in cases where two or more safety valves and the like are installed to prepare for external fires one of the safety valves and the like must be set below the design pressure or maximum allowable pressure of the container and the other can be set below 110 of the design pressure or maximum allowable pressure 2 in the event of installing burst plates and safety valves in series in accordance with the rule of 5 2 the setting pressure of the safety valve and the burst pressure of the burst plates is as follows a when installing the burst plate in front of the safety valve the burst pressure of the burst plate shall be set to rupture at or below the setting pressure of the safety valve   4 |reason | one safety valve installed | col3 | multiple safety valves installed | col5 | |||||| || setting pressure | accumulation pressure | setting pressure | accumulation pressure | |not in case of fire first valve other valve in case of fire first valve other valve | 100 or less  100 or less  | 110 or less  121 or less  | 100 or less 105 or less 100 or less 110 or less | 116 or less 116 or less 121 or less 121 or less |",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 2412,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "b26c9df1-5581-41f3-9d99-e6c9b700da04",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 8
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "6d8d719b-a569-4f01-93df-b77c70c789a2",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 8
+                },
+                "hash": "cae1b376b6f0b5e52e90ea9ad181df75d77f0fccdfb0e79c1d45980d95f2f58c",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 the setting pressure of safety valves should reflect the operating temperature or back pressure at the actual installation location in conducting discharge tests corrected pressures based on the following considerations should be applied a when the operating temperature at the actual installation location of the safety valve is 110c or higher or when the operating temperature is below 60c the discharge test pressure should be adjusted according to the temperature difference b for standard safety valves defined in kosha guide d48 the difference between the set pressure and superimposed back pressure should be calculated to correct the discharge test pressure 44 accumulated pressure the accumulated pressure of safety valves should be as follows refer to table 1 and appendix 2 1 when the installation purpose is not for protection from fire a when installing one safety valve the accumulated pressure should be equal to or less than 110 of the design pressure or maximum allowable pressure b when installing two or more safety valves the accumulated pressure should be equal to or less than 116 of the design pressure or maximum allowable pressure 2 when the installation purpose is for protection from fire regardless of the quantity of safety valves the accumulated pressure should be equal to or less than 121 of the design pressure or maximum allowable pressure 5 required discharge amount the causes of overpressure include outlet blockage cooling or reflux interruption absorbent supply interruption noncondensable gas accumulation ingress of volatile substances overfilling malfunction of automatic control valves abnormal heat or steam influx internal explosion or excessive pressure rise chemical reactions hydraulic expansion external fires heat exchanger malfunctions utility failures and guidelines for pressure release by cause are as shown in table 2",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1884,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "497cca62-1a9f-4027-9b56-2f86c68e7821",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 9
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "9b7a05e5-ff47-43ff-93f7-b553444c01ea",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 9
+                },
+                "hash": "d352c12c79d2d8294519b7d1559fe897305028147f7d008537c5d3d2bcfa60c1",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020   table 2 pressure release guidelines by overpressure cause liquid pressure release guidelines 51 maximum inflow 52 53 54 55 56 maximum inflow calculated by case depending on the position number and malfunction mode of control valves maximum inflow  normal discharge amount 57 maximum inflow  normal discharge amount in case of malfunction entirely open or closed conservatively assumed 58   6 |number|cause of overpressure|section|liquid pressure release guidelines|vapor pressure release guidelines| |||||| |1|outlet blockage|51|maximum inflow|maximum inflow  generation quantity| |2|cooling or reflux interruption|52||materialenergy balance calculation| ||1 condenser cooling water interruption|||vapor inflow  vapor outflow| ||2 top reflux interruption|||vapor inflow  vapor outflow| ||3 side reflux interruption|||evaporation due to the amount of heat removed| |3|absorbent supply interruption|53||normally unnecessary| |4|accumulation of noncondensable gas|54||in tower reflux vapor release equivalent to cooling interruption in other vessels vapor release equivalent to outlet blockage| |5|ingress of volatile substances|55||overpressure protection measures outside pressure release devices are required| ||1 water entry into hot oil|||| ||2 introduction of quenchtempering hydrocarbons into hot oil|||| |6|overfilling|56|maximum inflow|7| |7|automatic control failure|57|calculated case by case depending on the position number and malfunction mode of control valves|| ||1 inlet control valve||maximum inflow  normal outflow|| ||2 outlet control valve||maximum inflow  normal outflow|| ||3 failstationary valve||conservatively assumed entirely open or closed in case of malfunction|| |8|abnormal entry of heat or vapor|58||| ||1 abnormal heat input|||vapor generation amount  normal outflow| ||2 inattentive valve opening|||vapor inflow  normal outflow| ||3 check valve malfunction|||selection of backflow situation and backflow amount|",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1957,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "c0233bd5-dc2a-4726-9852-debe44781d35",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 10
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "be857342-6304-466d-a6ca-bc53a8a6d6cc",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 10
+                },
+                "hash": "5cbaea69e74482cccce579fe852ed21ab7b29276678c6e5af74e4a9a9a2d1521",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 table 2 pressure release guidelines by overpressure causes continued | number | overpressure cause | liquid pressure release guidelines | vapor pressure release guidelines | ||||| | 9 | internal explosion or excessive pressure rise | 59 | pressure release device has slow response rate unable to provide overpressure protection alternative measures are necessary to prevent overpressure situations | | | 1 internal explosion | | | | | 2 excessive pressure rise | | | | 10 | chemical reaction | 510 | estimated amount of gasvapor generated in a runaway reaction consideration needed for 2phase effects | | 11 | hydraulic expansion | 511 | volume expansion due to temperature rise | | 12 | external fire | 512 | calculated using 2 or 7 depending on type of internal fluid | | 13 | heat exchanger malfunction | 513 | | | | 1 multipass heat exchanger | | flow rate through holes that are twice the size of tube crosssection | | | 2 doubletube heat exchanger | | usually unnecessary | | | 3 plate heat exchanger | | flow rate through holes corresponding to tube crosssection of multipass heat exchanger | | 14 | utility failure | 514 | analysis required based on extent of damage and level of malfunction |  all pressure release amounts are calculated under release conditions when the discharge pressure is higher than operating pressure the pressure release load may decrease 51 closed outlets 1 pressure vessel outlets being completely blocked may exceed maximum allowable working pressure mawp and discharge through pressure release devices is necessary the required discharge amount is the sum of maximum inflow amount for liquid maximum inflow amount for steam or vapor and generated amount under release conditions 2 since discharge amounts are determined under release conditions if inflow reduces due to vessel pressure rise the required discharge amount may significantly decrease 3 assuming that normally open valves or remoteoperated valves that were open when one of multiple outletside valves is closed continue to operate is permitted but common causes of malfunction that can affect multiple valves simultaneously eg control systems electrical systems require consideration",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 2197,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "1ae64dad-3283-45f1-881b-8e8694d9e3f0",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 11
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "0d01bb47-dac5-428e-b6db-07a45af24f0a",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 11
+                },
+                "hash": "d2f47f4c64994e0da5465faac392970e86b89cb4f16a9a1405b02887b102c0d8",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 review needed 4 for reciprocating pumps the maximum capacity is determined by the required discharge flow rate however in the case of a centrifugal pump if the pump itself or downstream piping and equipment are designed to withstand the maximum shutin pressure then protection like pressure relief is not necessary 5 reciprocating compressors determine their maximum capacity based on the required discharge flow rate for multiplestage compressors even if there are no block valves between stages pressure relief devices considering blockage of exits at each stage should be provided to guard against cooling failure or failure of a stage located downstream 52 interruption of cooling water or reflux fluid supply to the condenser 1 when equipment used for cooling or condensing the process fluid fails or reflux is interrupted due to pump failures in the distillation process the required discharge flow rate is determined based on material and energy balances for the system under discharge conditions 2 if detailed calculations for cooling disruption are difficult the required discharge flow rate should be estimated using the following simplified criteria a in the case of complete condensation the total steam flow rate entering the condenser b for partial condensation the difference between the incoming steam flow rate and the outgoing steam flow rate c if the fan of an aircooled condenser fails an amount equivalent to 70 to 80 of the normal cooling capacity should be provided 3 when reflux fluid supply is interrupted the required discharge flow rate should be determined based on the following considerations depending on the type of reflux circulation a in the case of overhead circuit reflux flooding of the condenser may occur so it is treated similarly to a complete cooling disruption but considering changes in steam generation b for pumparound circuit reflux an evaporation amount equal to the heat removed should be considered c for sidestream circuit reflux an evaporation amount equal to the heat removed should be considered 53 interruption of solvent supply 1 usually when hydrocarbon compounds are treated as solvents in absorption columns pressure relief due to solvent supply interruption is not necessary",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 2247,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "e1e77911-3000-4701-8fd5-868cdc9f4b87",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 12
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "054baf13-794e-4447-87aa-28035706a33b",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 12
+                },
+                "hash": "4deb24f03f1bff51e0de4049c7ec84b1d528cddc7b03b1ce4f83dd1cf49a88e9",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 2 however if the supply of absorbent is interrupted when more than 25 of the vapor flow is removed in the acid gas absorption tower it may cause pressure buildup in the downstream equipment requiring pressure relief the required purge rate is determined taking into consideration the characteristics of the downstream equipment piping instruments etc 54 accumulation of noncondensable gases noncondensable gases are released with the process flow under normal operating conditions and do not accumulate if accumulation occurs to the extent that blanketing is required in the fractionation tower a purge rate equivalent to cooldown 52 is necessary gas venting equivalent to outlet shutdown 51 is required in other vessels 55 ingress of volatile substances 1 in cases where water enters hot oil pressure may increase rapidly due to phase change but it is often impossible to determine the quantity of water present making it difficult to calculate the required purge rate accurately 2 since water evaporates almost instantly and its volume expansion ratio is too high the utility of pressure relief devices may be questionable the best method to prevent water ingress is through appropriate design construction and operation methods as follows a minimum circulation of hot oil through standby equipment to minimize water ingress b prevention of water pockets where water can accumulate c installation of steam condensate traps d installation of heat tracing to prevent condensation e installation of dual blocking valves and bleed valves on water connections in hightemperature process piping f interlocking installation for blocking heat sources in case of water contaminated feedstock g operating and startup procedures that allow for gradual temperature increase 3 while the volume expansion ratio of hardened hydrocarbons is relatively smaller than water protective measures similar to those for water entry are necessary when they enter oil or other substances 56 overfill",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1988,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "d87d5495-13d8-4caa-9de6-4f53dc645841",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 13
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "7d7618d6-410e-4439-a7b2-4e64b70c1929",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 13
+                },
+                "hash": "34514ce70bdbe43baa36826e698df9c2621f57f89dba0e29b81430ad6d3b6667",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 1 if the inflow fluid pressure using equipment exceeds the design pressure a pressure relief device should be used that sets the maximum inflow rate as the required outflow rate 2 management measures can be used for overcharge pressure protection 57 malfunction of automatic control valves 1 general a automatic control valves used in the inlet or outlet piping of a container or system can malfunction due to various factors such as transmission signals actuators sensors controllers etc b depending on the installation location number and malfunction mode of control valves failopen failclose failstationary the required outflow rate should be calculated for each overpressure scenario c control valves that handle the minimum flow rate during normal operation may not be considered as the cause of overpressure 2 malfunction of control valve installed in the inlet piping a when assuming that one inlet control valve is fully open and the rest of the valves are in normal flow positions the difference between the maximum expected inflow rate and the normal outflow rate is considered as the required outflow rate b if one or more outlet valves close due to the same malfunction that initially opened the first inlet valve or if multiple inlet valves open the difference between the maximum expected inflow rate and the normal flow rate of the remaining open outlet valve is considered as the required outflow rate c when bypass valves are opened to increase flow or bypass valves are accidentally opened the total flow control valve fully open and bypass valve in normal position should be considered for pressure relief scenarios d if liquid level loss occurs in a highpressure vessel the possibility of steam flowing into a lowpressure system should be considered if the inlet steam volume is larger than the lowpressure system volume or if the steam supply is unlimited severe overpressure can occur rapidly in this case the relief device size of the lowpressure system should be adjusted to handle the overall steam flow through the liquid control valve however in environments where the process system has a significant pressure difference and the steam volume of the highpressure equipment is less than the lowpressure system volume additional pressure can be absorbed without causing overpressure depending on the circumstances",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 2351,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "03baa81a-e6c5-4682-828a-3ffc039b5893",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 14
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "5f4e7de9-f3b4-44a0-9901-4aa97b7c22a6",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 14
+                },
+                "hash": "37b4b23eddd0a5e4610b1bf01d469f07fd30ebafb81b0252f8fb7c648f9211ea",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 3 malfunction of control valve installed on exit pipes a if a control valve installed alone malfunctions or multiple control valves are simultaneously closed due to a common cause it is considered as exit blockage 51 and the required flow rate at this time is determined as the maximum inflow rate b if only one of multiple control valves malfunctions the difference between the maximum inflow rate and the outflow rate caused by the normal operation of the remaining valves becomes the required flow rate 4 malfunction of failstationary valve it is a valve that stops at the final control position in the event of a malfunction and since the exact position at the time of malfunction cannot be predicted a conservative assumption of full opening or full closing should be made to determine the required flow rate 58 abnormal heat or steam input 1 abnormal process heat input a in order to reduce the overpressure caused by heat input exceeding the normal design value from reheaters or other heat sources the required flow rate is calculated by subtracting the normal steam discharge rate from the maximum steam including noncondensing gas generation b heat input amount is conservatively calculated taking into account the behavior of system components \u2460 flow rate application when the fuel control valve is fully open \u2461 assume the tubes of multitube heat exchangers are clean without contamination \u2462 burners are applied with capacity exceeding the design capacity usually 125 2 valve opening due to carelessness a in case of a valve installed on a piping connecting highpressure equipment and protective containers carelessness in opening can lead to the need for pressure relief equipment that can discharge the amount that can be introduced in a fully open state b if the valve on the containers outlet side is open the amount that can be discharged through the open valve can be subtracted from the amount being introduced c if there are management measures in place to prevent careless valve opening pressure relief equipment may not need to be installed",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2073,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "71291dd6-1bba-457f-81a0-9e194f418df9",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 15
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "d2be5ec1-c4e4-44bd-8f7c-b6de3ea94dd8",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 15
+                },
+                "hash": "a9853d8118259625d0e08e5d6fe008e521379233f18063e2fb2c4a2e03703488",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 3 check valve malfunction there are three situations regarding backflow as follows and although there are proposed methods to estimate the backflow volume for each situation users must determine the backflow situation and method selection for calculating the required discharge volume a total malfunction backflow due to blockage in the fully open state or loss of internal parts b severe leak significant backflow due to valve seat damage etc c normal leak minor backflow due to valve wear etc 59 internal explosion or excessive pressure rise 1 internal explosion a internal explosions caused by the ignition of a mixture of steam and air require a response in milliseconds so the pressure relief equipment must relieve the pressure to prevent explosive burnout panels etc due to slow response speeds b for detonations as explosion relief closure and suppression systems are not feasible prevention of explosive mixture formation must be achieved using inert gas sparging and management methods 2 excessive pressure rise a hydraulic shock waves may occur due to water hammer caused by sudden valve closure in liquidfilled systems resulting in the system pressure rising significantly higher than normal operating pressures in such cases the valve closure speed must be limited to prevent shock waves b methods are used to prevent valve rapid closure in piping carrying compressible fluids to avoid steam hammers c condensateinduced hammer occurs when steam bubbles are rapidly destroyed by cold condensate through proper design and operation of steam traps drains etc the hammer phenomenon should be prevented 510 chemical reaction 1 since the reaction rate during a runaway reaction caused by process disturbances like agitation interruption cooling failure incorrect reactant injection external fires etc is rarely known  12",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1839,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "286c012f-8e00-46a7-8619-a82b698e411e",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 16
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "46eb4cc2-e623-420c-b04f-6bf72dda4a19",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 16
+                },
+                "hash": "6f9391ecd4075be860f2f160c26565cc6509cd59ff2e948f18b8cfc0565f195c",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d182020 key characteristics of the following reaction systems are identified through benchscale tests a tempered system usually a liquid reaction system where noncondensable gases are not generated and the temperature slowly increases due to liquid boiling b gassy system gases are generated rapidly due to liquid decomposition reactions or gasphase reactions causing a sharp increase in temperature c hybrid system temperature rise rate due to subreactions is tempered by liquid boiling but noncondensable gases are also produced pressure relief devices should be used to protect against overpressure but if not possible other methods such as the automatic shutdown system or depressurizing should be applied to control excessive stress of the device 511 hydraulic expansion of liquid volume 1 when a liquidfilled pipe or container is heated by heat transfer from the surroundings fire solar radiation or heating coils the volume of the liquid increases as the temperature rises causing expansion and potential rupture detailed calculations for heat input should refer to the technical guidelines of the heat expansion safety valve d31 2 since the volume of liquid required for overpressure protection is low dn 20  dn 25 nps 34  nps 1 relief devices are mainly used as thermal relief devices for larger pipes or containers requiring a larger relief device the required flow rate is calculated as follows  in the given formula  q volume flow rate m\u00b3hr  \u03b2 coefficient of volume expansion 1  \u03c6 total heat transfer rate kcalhr  \u03c1 specific gravity based on water at 156  c specific heat of the fluid kcalkg",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1604,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "da93ea4b-7fa8-4e38-8dfb-139364bfd1b9",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 17
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "4c20e597-f5a8-4930-890a-eeecb0cd95a8",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 17
+                },
+                "hash": "bba098dca98193f36e2fd7bd3aff7261f4de00f570cf08c950a9c634ecbbec59",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 512 external fire 1 general a when containers such as storage tanks or process equipment are exposed to external fire pressure is generated due to vaporization or decomposition reactions of liquid contents expansion of fluids etc b due to the decrease in material strength caused by overheating of the container wall rupture may occur even at pressures below the set pressure of pressure relief devices c the calculation of required discharge rates and protection methods differ for three types of fires open pool fire confined pool fire and jet fire 2 open pool fire a required discharge rates for containers handling liquids here  required discharge rates kghr  total heat input kcalhr  latent heat of evaporation kcalkg the total heat input q calculation formula if appropriate fire extinguishing and fuel supply facilities are present if appropriate fire extinguishing and fuel supply facilities are absent  14",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 927,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "4916e1af-1464-4134-9de0-59f18c187e1c",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 18
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "b301236f-159a-4972-b89e-e009b3721546",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 18
+                },
+                "hash": "3fdd8d96ea6b3b5465de4d8f6ef96fd300ddb94627e372678bd0152113e9e85e",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "date december 18 2020 here    environmental factor   surface area of containers in contact with internal liquid m\u00b2  appropriate oil and sewage facilities are considered to have oiling and sewage plans that meet the following conditions one  the fire management area is classified based on oils trenches etc and should be able to safely transport the maximum leakage of flammable and combustible substances from the fire area and the fire hydrant flow rate to nonhazardous areas  the ground should maintain a minimum slope of 1100 or more considering the location of trenches and there should be no puddles where the oiling and sewage materials can stagnate  in case of installing intermediate impoundments they should be installed at least 15 m away from the nearest plant equipment and all equipment should be operable from outside the fire area  when installing oiling agents to block the spread of leaks from storage tanks they must comply with kosha guide d8  if vapor of flammable and combustible substances can accumulate in the final oiling and sewage treatment facility a safety facility complying with kosha guide d35 must be installed \u2461 environmental factor f value  f values based on the thermal conductivity of insulating materials are listed in table 3  when the heat conductivity and thickness of insulating materials are given f is calculated using equation 5       here   5    thermal conductivity of insulating material at an average temperature thermal cond  9042 kcalmmhrm\u00b2c  15",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1498,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "03fd919a-5449-4027-8e9b-e8a1769f1777",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 19
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "c287f36b-5f36-490d-8bb5-dd08575a5e04",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 19
+                },
+                "hash": "46630783d8bc643a4ddf49e48af6009c3570469a085ef97a110809acad824a9a",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 appendix 3 reference   thickness of insulating material mm  temperature at which fluid leaks in handling and storage containers   table 3 environmental factor device type environmental factor f uninsulated container 10 195 03 98 015 49 0075 insulation heat transfer coefficients on containers 33 005 kcalhr 24 00376 20 003 16 0026 uninsulated container with cooling system 10 container with pressure relief system 10 container covered with earth etc 003 stored containers below the surface 00  calculate f using equation 6 for multilayer insulation  |table 3 environmental factor|col2|col3| |||| |device type||environmental factor f| |uninsulated container||10| |insulation heat transfer coefficients on containers kcalhr|195|03| ||98|015| ||49|0075| ||33|005| ||24|00376| ||20|003| ||16|0026| |uninsulated container with cooling system||10| |container with pressure relief system||10| |container covered with earth etc||003| |stored containers below the surface||00|           6   here   thermal conductivity of the ith insulating layer kcalhr appendix 3 reference  thickness of the ith insulating layer mm  however insulation installed on containers should effectively block heat even at 90 for at least 2 hours during a fire especially under normal operating conditions they should have excellent insulation properties but in cases where special treatments and preliminary tests have not been conducted",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1418,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "57406ebd-a0f7-481c-93f8-d699b40772e1",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 20
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "50be5f95-212d-48a9-99f0-3513c2c89998",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 20
+                },
+                "hash": "19070bf19d23b16661e300274db4980490fe1485121e8de2ba58fa661469b88e",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 when using insulating materials that can melt evaporate or be damaged at temperatures below 260c caution must be taken additionally insulation materials should not be separated from the container for at least 2 hours under high pressure of the digestate and should be able to withstand direct contact with flames the protective cover of the insulation material should also be able to withstand the pressure of the digestate and the temperature of the flames generally stainless steel is suitable for the cover of the insulation material but aluminum is not \u2462 calculation of the surface area  of containers in contact with internal liquid  in case of fire it is assumed that the area of the container in contact with internal liquid must be calculated up to a minimum vertical height of 75m from the surface however for cylindrical containers the larger value between 75m and the maximum horizontal diameter is applied for the calculation  the area of the container head region protected by limited ventilation skirt is excluded from the wet area calculation \ub098 required discharge rate for containers storing gas vapor and subcritical fluids    here      7      required discharge rate kghr   molecular weight   upstream relieving pressure mpaabs   area of the container exposed during a fire m\u00b2   maximum wall temperature of the container k 866 k for carbon steel   gas temperature at upstream relieving pressure p1pn x tn k  here pn  normal operating pressure mpaabs   17",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1484,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "bdeddcaf-a6ec-495e-9161-24e7da2ae7f2",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 21
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "48e718c0-c8df-4bbb-b3ff-4e8000c0ccf1",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 21
+                },
+                "hash": "d1604969b1e6d151ac8f46d67f78ad75a0847dffb7bd4f832def0b914a3b239e",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 tn  ambient operating temperature k \u2460 in equation 7 it is assumed that the container is not adiabatic the wall temperature does not reach the fracture stress temperature and the fluid temperature is constant by satisfying the criteria mentioned above the pressure release volume can be reduced when reinstalling the adiabatic device \u2461 when it is difficult to apply this assumption a method of calculating the required discharge amount through dynamic modeling can be applied 3 surface fires in confined spaces a when a fire occurs in an area enclosed inside a structure or surrounded by dikes the usual higher flame temperature and greater heat flux are observed due to preheating and reradiation caused by confinement compared to fires in open spaces however the effect varies based on the type of fire ventilationcontrolled or fuelcontrolled and its size \u2460 for ventilationcontrolled fires the available air volume dominates the heat release rate limiting the size of the fire \u2461 for fuelcontrolled fires the fuel quantity dominates the heat release rate and depending on the fire size  in mediumsized fires the effect of confinement is at an intermediate level showing similarities to surface fires in open areas so equations 2 to 4 are used to calculate the heat input and required discharge amount  in large fires equations 3 and 4 underestimate the heat input necessitating a more rigorous method b partially enclosed situations due to walls or dikes around the vessel height during a fire call for the use of  instead of equations 2 to 4 to calculate the heat input and required discharge amount c the type and size of surface fires should be determined by the user 4 jet fires a jet fires can locally overheat the container surface causing the metal walls to rupture before reaching the set pressure of pressure relief devices thereby rendering common pressure relief devices ineffective protection means b therefore considerations such as isolating the fire emission source depressurization systems and management and mitigation methods such as external insulation must be taken into account instead of using pressure relief devices",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2151,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "0c83f4da-d0b7-4b41-921f-b9ddbd87bc3a",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 22
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "0eeb0139-2beb-4853-900a-8c13a236c7b2",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 22
+                },
+                "hash": "59d65440cd090be7ec64f2213dc0380058c19c34ca518612c870fbf1ef725bb8",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 513 heat exchanger failure 1 multipletube shellandtube heat exchanger a internal failures such as pinhole leaks can lead to various patterns of complete tube rupture and detailed mechanical analysis including tube vibration material and fatigue analysis is required to determine design criteria for protection selection such as selecting design pressure lower than scenario pressure or installing pressure relief devices b determination of required leakage rate through normal approach \u2460 sudden tube rupture in a single tube \u2461 assumed that tube rupture occurred at the rear of the tube sheet \u2462 assumed that highpressure fluid flows through the remaining tube stub and other longitudinal sides of the tube sheet \u2463 combination of tube stub flow and longitudinal piping flow c instead of method b a simplified assumption using two orifices can be used to determine the required leakage rate this is because it generates a larger relief flow than the long open tube and tube stub in method b d detailed analysis is required for dynamic approach to determine that smaller design criteria are appropriate than for overall hole tube rupture e when calculating the flow passing through ruptured tube openings nonflashing liquids are modeled using incompressible flow equations while steam or gas is modeled using compressible flow equations for cases where flashing occurs due to pressure drop a homogeneous equilibrium model hem is used for twophase flow f for heat exchangers with a design pressure difference of over 7000 kpa between the hot and cold sides especially when the cold side is filled with liquid and the hot side involves flashing gas or fluid through ruptures a dynamic approach is necessary 2 doublepipe heat exchanger a when using schedule pipe for the inner pipe there is no need for pressure relief devices as the likelihood of rupture is minimal b when using gauge tube for the inner pipe welding failures can occur in specific cases",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1959,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "cab13bdd-011a-47fd-8325-fb24ee936882",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 23
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "f468c75e-1e67-4952-84bc-dc552a0c67dc",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 23
+                },
+                "hash": "ae726330f0829e91e400e8d8e1970f7e532f2e0369f478a880e2d49ffb82f8c9",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 engineering judgment is not needed very much 3 plateandframe heat exchanger a although leakage is more likely to occur at the external gascket than the internal plates if leakage occurs due to corrosion it can exceed the maximum allowable working pressure mawp on the lowpressure side a pressure relief device should be installed on the lowpressure side b the leakage flow rate is calculated by assuming leakage holes equivalent to the size of a single tube rupture in a multitube heat exchanger eg diameter 64  254 mm 514 utility failure 1 in the event of utility failure the extent of damage entire plant or local equipment and the level of failure complete or partial loss should be closely analyzed to determine the required release quantity 2 table 4 lists partial inventory of devices that may be affected by failures of each utility",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 852,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "15d92786-25af-4f5f-9fec-a025600d2879",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 24
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "9bd54cec-820b-48c6-9a8a-ebebefb2980c",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 24
+                },
+                "hash": "8c1ad02026c5b0477fc40ded7930cd56b653f04a081f6740258eb42cecc7c6dc",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 table 4 device affected by utility failure devices affected by utility pumps circulating cooling waterrefrigerant boiler supply water chilled water return fluid etc aircooled heat exchangers cooling towers fans supplying combustion air fans power process steam instrument air vacuum compressors for refrigeration instruments motoroperated valves condensers for process or utility facilities cooling waterrefrigerant process fluids lubricants cooling systems for seal oil jackets for rotary or reciprocating devices transmitters controllers instrument air process control valves alarm and shutdown systems pumps compressors fans combustion air fan turbine drives for generators reciprocating pumps steam devices using direct injection steam ejectors steamliquid heat exchangers eg reboilers boilers reheaters reboilers fuel engine drives for pumps or generators compressors gas turbines seals inert gas catalytic reactors instruments device vents 515 impact range in case of fire 1 in case of fire it is assumed that the impact of the fire extends vertically up to 75 m from the minimum surface and the internal liquid contact area of vessels a w in section 512 should be calculated however for elliptical or spherical vessels the maximum horizontal diameter or the greater of the height up to 75 m from the surface should be used to calculate the internal liquid contact area of vessels a w in section 512 2 in case of fire an area of 230 m\u00b2 to 460 m\u00b2 from the ignition center is considered to be affected by the fire and the required emission rate should be calculated",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1582,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "f47ed5c7-b81c-4af3-863a-8716e2570059",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 25
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "a9c76bbc-8018-43f6-8dbd-4ef6ca8f2cba",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 25
+                },
+                "hash": "2fe3f3123f76972d1b59cd845d9f87ebc6b035c6494ee723a0aaea79dddafc6a",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 6 discharge capacity of safety valves etc the discharge capacity of safety valves etc should be determined as the largest value among the individual required flow rates calculated in item 5 7 installation and disposal 71 installation location 1 safety valves etc must be installed on piping connected to the upper part of protected vessels or atmosphericvapor spaces of vessels refer to figure 1 figure 1 installation location of safety valves etc 2 safety valves for thermal expansion are applicable only in areas where there is no upper air space and only liquid is present and under conditions where the fluid is shut off during normal operation however in cases where there is a risk of facility damage due to expansion of vapor or liquid under shutdown conditions caused by sunlight they must be installed refer to figure 2  22",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 844,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "87e4a012-4671-48c0-894d-397c9c82187e",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 26
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "2be2b998-a561-45a7-aed6-391d238f5799",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 26
+                },
+                "hash": "acfe7868f3d881ebdb41dd2127459575d563978cdad4c12895dd52bb4dea0617",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 72 installation method   figure 2 installation location of the safety valve   the installation method of safety valves is as follows 1 the pressure loss in the inlet piping from the installation target vessel to the inlet flange of the safety valve should be less than 3 of the set pressure however if the safety valve is installed higher than the protective equipment for the free discharge of downstream piping the pressure loss can be reduced by increasing the piping diameter of the front end of the safety valve refer to figure 3 figure 3 pressure loss in the inlet piping of the safety valve   23",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 615,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "1da80ee1-6054-4dfd-99f5-3c1c9939e15e",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 27
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "e8f5a660-3040-44c3-ac0a-54452102c4f6",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 27
+                },
+                "hash": "546c7c5f845210159de722cd1b17217671ddd17c0ee4684910f44226f9ba62e4",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 2 the nominal diameters of the inlet piping and outlet piping of safety valves etc shall be equal to or greater than the nominal dimensions of the inlet and outlet flanges of safety valves etc refer to figure 4 figure 4 nominal diameter of inlet and outlet piping of safety valves etc 3 when two or more safety valves etc are installed at one connecting point to discharge the required flow the internal crosssectional area of the connected piping shall be equal to or greater than the sum of the inlet crosssectional areas of each safety valve etc however this requirement does not apply to safety valves etc installed as spares refer to figure 5 figure 5 internal crosssectional area of connected piping when two or more safety valves etc are installed",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 766,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "6647175f-0893-4387-b2ce-725dcf248b2d",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 28
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "10f29d06-8df4-4ae2-b99f-8b9504402778",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 28
+                },
+                "hash": "6d265b50cf370084419f533bbdf64d327648c3c69556ec00f2f1a531853b3ff7",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "date december 18 2020 4 the pressure on the outlet pipe of the safety valve should be kept below 10 of the safety valve set pressure and if using a bellows type balanced type safety valve designed not to be affected by pressure the pressure should be within 50 of the set pressure however if the manufacturer of the bellows type safety valve specifies a pressure allowance it should be followed 5 the outlet pipe of the safety valve should be installed in a way that prevents the fluid liquid or vapor discharged from the safety valve from stagnating inside the pipe 6 when installing the outlet pipe of the safety valve outdoors measures should be taken to prevent rainwater from entering such as installing caps designed to prevent pressure from affecting the outlet pipe or making holes approximately 5 mm in diameter at the bottom of the outlet pipe to prevent water entry 7 the safety valve should be installed to withstand its own weight the weight of the safety valve front and rear piping and impacts during discharge with support structures installed if necessary 8 in cases where materials with high viscosity or prone to solidify are used appropriate measures such as insulation or heating should be taken to prevent blockages in safety valves and inletoutlet pipes due to freezing or thickening 9 when rupture discs and safety valves are installed in series pressure gauges or alarm devices should be installed between the rupture discs and safety valves to detect ruptures or leaks 73 valve installation in the following cases valve installation at the front and rear of safety valves is allowed provided that opening and closing status indications and valve maintenance standards from items 7 to 10 are followed 1 when safety valves are installed in duplicate in adjacent containers or equipment refer to figure 6 however there should be no shutoff valve in the connecting pipe between the two safety valves and the discharge capacity of the safety valves should meet the discharge capacity of the adjacent equipment",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 2030,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "ce32a259-76ea-4721-aa5b-870111d4ff7c",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 29
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "573b393f-f6b1-4d18-ab4f-20df1fb19772",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 29
+                },
+                "hash": "aeb4763f94f7103301db547ec70e220deb0a3cef6203682ed6d74adb51033549",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 6 when safety valves are installed in duplicate on adjacent containers 2 when an automatic pressure control valve with a capacity of 50 or more of the discharge capacity of safety valves excluding those that open when the power supply is cut and safety valves are connected in parallel figure 7 reference   26",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 322,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "61dd9a4c-ac24-4fe3-ad8a-78a8bb89d063",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 30
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "9ba8c9ae-585a-45ee-9118-348b3a44eeaf",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 30
+                },
+                "hash": "56428a63e645b6f7c404bf1e76f3d78a2dc70dc4aa8f15ab6055ef91c8ad7c96",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 3 in case of multiple safety valves installed refer to figure 8 figure 8 in case of multiple safety valves installed 4 in case reserve tanks are installed and safety valves are installed in each tank refer to figure 9  figure 9 in case reserve tanks are installed and safety valves are installed in each tank   27",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 326,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "3c4d017f-bc89-46d5-b6fb-223fcb23a2a4",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 31
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "8810acf9-c6e6-4a25-996e-b537a9ef2f28",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 31
+                },
+                "hash": "d09e7291ca7456712f9384a5e7fbcb7def9e93e2bd009ee3dcfc7a0c475455b5",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "d  18  2020 5 in the case of a safety valve for releasing pressure due to thermal expansion see figure 10 figure 10 safety valve for releasing pressure due to thermal expansion 6 when connecting two or more flare headers of individual process units to one flare stack for operation measures are taken to allow monitoring of the opening and closing status of the block valves installed in each unit process flare header from a central control room see figure 11",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 461,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "1d42a54d-2a8a-4c51-8d11-084165d2b487",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 32
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "6ad70675-038f-4209-b3cc-4242fc4ec2bb",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 32
+                },
+                "hash": "f5d37bc1e00bcfe5999f0e6979ae6fb676540ef5a498ab99d660f04b2a34d426",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "december 18 2020 figure 11 when connecting the flare header of two or more upper unit processes to a single flare stack 7 when installing block valves at the front and back ends of safety valves before performing maintenance a valve bleed valve should be installed between the safety valve and block valve to prevent pressure buildup between the safety valve etc and the outlet side block valve proper procedures for opening and closing the front and back end block valves should be established 8 when multiple block valves are installed at the front and back ends of safety valves as in item 3 generally keep the front end of the standby safety valve closed and the back end open however if there is a risk of fluid exposure on the outlet side the back end block valve of the standby safety valve should be closed in case of difficulty in blocking a rupture disc or relief valve can be installed 9 when using 3way valves as in item 3 ensure that isolation does not occur due to the outlet side block valve upon direction change and that activated safety valves are visible 10 block valves installed at the front and back ends of safety valves should be maintained in a locked state at an appropriate location and only authorized personnel with locking authority using locktype valves or equivalent nonpoint ignition materials etc should be able to perform unblocking procedures",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1378,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "5daac62e-d46c-40e8-95ff-8f65bc68833c",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 33
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "35788767-abb1-40d4-a3c4-eb1cfc609328",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 33
+                },
+                "hash": "2ec0a18c3d3eda36859e7fd443d801cfc684193960763a1b640d250c8638c16f",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "74 treatment of discharged substances hazardous substances discharged from safety valves must be treated by combustion absorption purification capture or recovery methods 1 combustion and discharge vapor of flammable gases or liquids is burned in a flare system and released into the atmosphere 2 treatment by absorption this involves treating gaseous emissions by dissolving them in a liquid 3 treatment by adsorption this method involves attaching gaseous or liquid emissions to solid materials for treatment 4 treatment by capture this method involves collecting discharged substances in appropriate containers for treatment it is suitable for small amounts of discharged substances 5 treatment by recovery this involves collecting discharged substances in facilities handling the same materials taking into account the quantity of discharged substances and the pressure of safety valves 6 neutralization acids and alkalis are neutralized with each other and toxic materials are detoxified 7 others if substances are being discharged momentarily from safety valves and are being connected to environmental treatment facilities rto rco etc a risk assessment must be carried out before the connection is made due to the risk of fire or explosion",
+        "mimetype": "text/plain",
+        "start_char_idx": 0,
+        "end_char_idx": 1246,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "b7ddba6f-8d78-47f3-8ffe-18e01f9d2775",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 34
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "9067f8da-6fa7-435d-a45f-ce2367e4ad98",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 34
+                },
+                "hash": "862320ebed95cd230d9743234f2001999aedae19ddfeec025fee54a4237b0d09",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "appendix 1   flowchart for selection of safety valves  start is there a sudden increase in pressure no is the content toxic no is the content corrosive no no is the content a polymer material or cryogenic install safety valve does it satisfy the discharge capacity requirements yes install one safety valve yes are there operating conditions affecting the life of the rupture disc no proceed install one rupture disc install two rupture discs in series  31 |install multiple safety valves|col2| ||| ||| |yes|col2| ||| |install one safety valve|| ||| |no|yes|col3|col4| ||||| |install one rupture disc|install two rupture discs in series|install two rupture discs in parallel|install rupture disc and safety valve in series| |||||",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 730,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "3fd49fdb-d881-42e4-b9e2-3835a7855cf6",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 35
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "fef380c3-cddc-4c42-94fe-61e481bad738",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 35
+                },
+                "hash": "10be5ee82a4861964decd11821b4cc0fb5ff157f7ab7823c5bf8ab2071bd6cce",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "appendix 2   relationship between pressure levels of safety valves   32",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 72,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    },
+    {
+        "id_": "d6c45528-bebd-4fe0-8ab3-9b8917baa89f",
+        "embedding": null,
+        "metadata": {
+            "total_pages": 36,
+            "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+            "source": 36
+        },
+        "excluded_embed_metadata_keys": [],
+        "excluded_llm_metadata_keys": [],
+        "relationships": {
+            "1": {
+                "node_id": "553cf5c7-f428-44a4-9844-7dfea85c1850",
+                "node_type": "4",
+                "metadata": {
+                    "total_pages": 36,
+                    "file_path": "Technical Guidelines for Calculating and Installing Discharge Capacity of Safety Valves, etc.",
+                    "source": 36
+                },
+                "hash": "1dcc88d87138bc86f705690de792cc775ca91e00646e8b05a10857918cf04b28",
+                "class_name": "RelatedNodeInfo"
+            }
+        },
+        "text": "appendix 3  |col1|thermal conductivity of major insulating materials|col3|col4|col5|col6|col7|col8| ||||||||| |average temperature of insulation material |thermal conductivity of major insulating materialskcalmmhrm2||||||| ||calcium silicate type i|calcium silicate type ii|mineral fiber blanketblock a|glass fiber type gr2|extruded expanded perlite block|lightweight cement b|regular weight cement b| |18||||3845||44647|1513| |38|||3349|4589||44647|1488| |93|5581|6697|4217|5457|6821|44647|1463| |149|6201|7693|5457|6449|7441|44647|1439| |204|6821|7565|6821|7813|8185|44647|1426| |260|7441|7937|8681||9178|44647|1401| |315|8185|8309|11038||9922|44647|1389| |371|8805|8681|14014||10914|44647|1364| |427||9053||||44647|1352| |482||9302||||44647|1327| |538||9550||||44647|1302| |593||||||44647|1277| |649||||||44647|1265| |maximum operating temperature d|649|927|649|c|c|870|1090| |a rock slag or glass processed into fiber form while in a molten state thermal conductivity values shown in the table are the highest for various forms of insulating materials suitable for the stated maximum operating temperatures b thermal conductivity values for lightweight and regular weight cementitious materials are approximate c maximum operating temperatures not provided in astm c552 24 and astm c610 27 d other grades of insulating materials with higher maximum temperatures may exist||||||||  33",
+        "mimetype": "text/plain",
+        "start_char_idx": 1,
+        "end_char_idx": 1388,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n",
+        "class_name": "TextNode"
+    }
+]
